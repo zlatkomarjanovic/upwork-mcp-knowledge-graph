@@ -1,0 +1,38 @@
+{
+  "Core Web Development": {
+    "totalJobs": 1,
+    "jobsLast24h": 1,
+    "avgBudgetFixed": 20,
+    "avgRateHourly": null,
+    "medianProposals": 5,
+    "pctHighBudget": 0,
+    "opportunityScore": 26
+  },
+  "Web Design": {
+    "totalJobs": 2,
+    "jobsLast24h": 2,
+    "avgBudgetFixed": null,
+    "avgRateHourly": 22.5,
+    "medianProposals": 6,
+    "pctHighBudget": 0,
+    "opportunityScore": 33
+  },
+  "WordPress": {
+    "totalJobs": 2,
+    "jobsLast24h": 2,
+    "avgBudgetFixed": 300,
+    "avgRateHourly": null,
+    "medianProposals": 15,
+    "pctHighBudget": 0,
+    "opportunityScore": 25
+  },
+  "Webflow / Framer": {
+    "totalJobs": 1,
+    "jobsLast24h": 1,
+    "avgBudgetFixed": null,
+    "avgRateHourly": 29,
+    "medianProposals": 11,
+    "pctHighBudget": 0,
+    "opportunityScore": 29
+  }
+}
