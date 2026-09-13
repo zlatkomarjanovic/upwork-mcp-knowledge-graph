@@ -1,33 +1,33 @@
 {
   "WordPress": {
-    "jobs": 19,
-    "avgBudgetFixed": 426.88,
+    "jobs": 20,
+    "avgBudgetFixed": 401.67,
     "avgRateHourly": 24.75,
-    "medianProposals": 11,
+    "medianProposals": 12,
     "opportunityScore": 10,
     "sampleConfidence": "Medium"
   },
   "Webflow": {
-    "jobs": 8,
+    "jobs": 10,
     "avgBudgetFixed": 200.0,
     "avgRateHourly": 27.67,
-    "medianProposals": 11,
+    "medianProposals": 10,
     "opportunityScore": 10,
     "sampleConfidence": "Low"
   },
   "Framer": {
-    "jobs": 1,
+    "jobs": 3,
     "avgBudgetFixed": null,
-    "avgRateHourly": 35.0,
-    "medianProposals": null,
-    "opportunityScore": 17,
+    "avgRateHourly": 60.0,
+    "medianProposals": 39,
+    "opportunityScore": 15,
     "sampleConfidence": "Very Low"
   },
   "GoHighLevel": {
-    "jobs": 15,
-    "avgBudgetFixed": 135.83,
+    "jobs": 17,
+    "avgBudgetFixed": 287.86,
     "avgRateHourly": 16.33,
-    "medianProposals": 7,
+    "medianProposals": 9,
     "opportunityScore": 9,
     "sampleConfidence": "Medium"
   },
