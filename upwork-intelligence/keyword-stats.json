@@ -12,16 +12,16 @@
     "opportunityScore": 68
   },
   "website development": {
-    "totalJobs": 1,
-    "jobsLast24h": 1,
-    "avgBudgetFixed": null,
-    "avgRateHourly": 17.5,
-    "medianProposals": 0,
-    "pctVerified": 100,
+    "totalJobs": 3,
+    "jobsLast24h": 3,
+    "avgBudgetFixed": 350,
+    "avgRateHourly": 10.75,
+    "medianProposals": 4,
+    "pctVerified": 67,
     "avgClientSpend": 8136,
     "pctHighBudget": 0,
     "sampleConfidence": "Very Low",
-    "opportunityScore": 45
+    "opportunityScore": 50
   },
   "web developer": {
     "totalJobs": 1,
@@ -576,16 +576,16 @@
     "opportunityScore": 1
   },
   "gohighlevel": {
-    "totalJobs": 1,
-    "jobsLast24h": 1,
-    "avgBudgetFixed": null,
+    "totalJobs": 2,
+    "jobsLast24h": 2,
+    "avgBudgetFixed": 350,
     "avgRateHourly": null,
-    "medianProposals": 7,
-    "pctVerified": 100,
+    "medianProposals": 7.5,
+    "pctVerified": 50,
     "avgClientSpend": 56885,
     "pctHighBudget": 0,
     "sampleConfidence": "Very Low",
-    "opportunityScore": 33
+    "opportunityScore": 37
   },
   "go high level": {
     "totalJobs": 0,
@@ -1104,15 +1104,15 @@
     "opportunityScore": 1
   },
   "technical SEO website": {
-    "totalJobs": 0,
-    "jobsLast24h": 0,
+    "totalJobs": 1,
+    "jobsLast24h": 1,
     "avgBudgetFixed": null,
-    "avgRateHourly": null,
+    "avgRateHourly": 4,
     "medianProposals": null,
-    "pctVerified": 0,
+    "pctVerified": 100,
     "avgClientSpend": null,
     "pctHighBudget": 0,
     "sampleConfidence": "Very Low",
-    "opportunityScore": 1
+    "opportunityScore": 16
   }
 }

@@ -1,7 +1,7 @@
 {
   "lastRunAt": "2026-09-13T01:33:52.349Z",
-  "runNumber": 3,
-  "totalJobs": 23,
+  "runNumber": 4,
+  "totalJobs": 25,
   "knownJobUrls": [
     "https://www.upwork.com/jobs/~022098933884540005197",
     "https://www.upwork.com/jobs/~022098933063131704141",
@@ -25,7 +25,9 @@
     "https://www.upwork.com/jobs/~022098943541927290461",
     "https://www.upwork.com/jobs/~022098896466971797085",
     "https://www.upwork.com/jobs/~022098895668614707518",
-    "https://www.upwork.com/jobs/~022098892731803347789"
+    "https://www.upwork.com/jobs/~022098892731803347789",
+    "https://www.upwork.com/jobs/~022098947836973993465",
+    "https://www.upwork.com/jobs/~022098894032439656584"
   ],
   "lastInsightRefresh": null
 }

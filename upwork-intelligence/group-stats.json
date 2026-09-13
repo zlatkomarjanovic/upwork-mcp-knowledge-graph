@@ -1,9 +1,9 @@
 [
   {
     "group": "CORE WEB DEVELOPMENT",
-    "totalJobs": 11,
-    "jobsLast24h": 11,
-    "avgOpportunityScore": 36,
+    "totalJobs": 13,
+    "jobsLast24h": 13,
+    "avgOpportunityScore": 37,
     "keywordCount": 6
   },
   {
@@ -21,11 +21,25 @@
     "keywordCount": 12
   },
   {
+    "group": "GOHIGHLEVEL",
+    "totalJobs": 2,
+    "jobsLast24h": 2,
+    "avgOpportunityScore": 6,
+    "keywordCount": 8
+  },
+  {
     "group": "ADJACENT PLATFORMS",
     "totalJobs": 2,
     "jobsLast24h": 2,
     "avgOpportunityScore": 17,
     "keywordCount": 4
+  },
+  {
+    "group": "CONVERSION / PERFORMANCE",
+    "totalJobs": 2,
+    "jobsLast24h": 2,
+    "avgOpportunityScore": 6,
+    "keywordCount": 7
   },
   {
     "group": "WEBFLOW / FRAMER",
@@ -42,13 +56,6 @@
     "keywordCount": 14
   },
   {
-    "group": "GOHIGHLEVEL",
-    "totalJobs": 1,
-    "jobsLast24h": 1,
-    "avgOpportunityScore": 5,
-    "keywordCount": 8
-  },
-  {
     "group": "MODERN STACK",
     "totalJobs": 1,
     "jobsLast24h": 1,
@@ -61,13 +68,6 @@
     "jobsLast24h": 1,
     "avgOpportunityScore": 4,
     "keywordCount": 9
-  },
-  {
-    "group": "CONVERSION / PERFORMANCE",
-    "totalJobs": 1,
-    "jobsLast24h": 1,
-    "avgOpportunityScore": 3,
-    "keywordCount": 7
   },
   {
     "group": "MAINTENANCE / RETAINERS",

@@ -27,12 +27,12 @@
     "confidence": "Very Low"
   },
   "GoHighLevel": {
-    "jobs": 1,
-    "jobsLast24h": 1,
-    "avgBudgetFixed": null,
+    "jobs": 2,
+    "jobsLast24h": 2,
+    "avgBudgetFixed": 350,
     "avgRateHourly": null,
-    "medianProposals": 7,
-    "score": 5,
+    "medianProposals": 7.5,
+    "score": 6,
     "confidence": "Very Low"
   },
   "Shopify": {
