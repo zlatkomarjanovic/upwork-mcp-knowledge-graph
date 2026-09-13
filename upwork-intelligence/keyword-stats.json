@@ -1,0 +1,74 @@
+{
+  "web developer": {
+    "keyword": "web developer",
+    "group": "Core Web Development",
+    "totalJobs": 1,
+    "jobsLast24h": 1,
+    "avgBudgetFixed": 20,
+    "avgRateHourly": null,
+    "medianProposals": 5,
+    "pctHighBudget": 0,
+    "opportunityScore": 26,
+    "sampleConfidence": "Very Low"
+  },
+  "web development": {
+    "keyword": "web development",
+    "group": "Core Web Development",
+    "totalJobs": 1,
+    "jobsLast24h": 1,
+    "avgBudgetFixed": 20,
+    "avgRateHourly": null,
+    "medianProposals": 5,
+    "pctHighBudget": 0,
+    "opportunityScore": 26,
+    "sampleConfidence": "Very Low"
+  },
+  "web design": {
+    "keyword": "web design",
+    "group": "Web Design",
+    "totalJobs": 2,
+    "jobsLast24h": 2,
+    "avgBudgetFixed": null,
+    "avgRateHourly": 22.5,
+    "medianProposals": 6,
+    "pctHighBudget": 0,
+    "opportunityScore": 33,
+    "sampleConfidence": "Very Low"
+  },
+  "website design": {
+    "keyword": "website design",
+    "group": "Web Design",
+    "totalJobs": 1,
+    "jobsLast24h": 1,
+    "avgBudgetFixed": null,
+    "avgRateHourly": 22.5,
+    "medianProposals": 11,
+    "pctHighBudget": 0,
+    "opportunityScore": 27,
+    "sampleConfidence": "Very Low"
+  },
+  "wordpress developer": {
+    "keyword": "wordpress developer",
+    "group": "WordPress",
+    "totalJobs": 2,
+    "jobsLast24h": 2,
+    "avgBudgetFixed": 300,
+    "avgRateHourly": null,
+    "medianProposals": 15,
+    "pctHighBudget": 0,
+    "opportunityScore": 25,
+    "sampleConfidence": "Very Low"
+  },
+  "webflow": {
+    "keyword": "webflow",
+    "group": "Webflow / Framer",
+    "totalJobs": 1,
+    "jobsLast24h": 1,
+    "avgBudgetFixed": null,
+    "avgRateHourly": 29,
+    "medianProposals": 11,
+    "pctHighBudget": 0,
+    "opportunityScore": 29,
+    "sampleConfidence": "Very Low"
+  }
+}
