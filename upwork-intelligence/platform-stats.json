@@ -1,0 +1,90 @@
+{
+  "WordPress": {
+    "jobs": 4,
+    "avgBudgetFixed": 285.0,
+    "avgRateHourly": null,
+    "medianProposals": 17,
+    "opportunityScore": 4,
+    "sampleConfidence": "Very Low"
+  },
+  "Webflow": {
+    "jobs": 3,
+    "avgBudgetFixed": null,
+    "avgRateHourly": 26.5,
+    "medianProposals": 18,
+    "opportunityScore": 4,
+    "sampleConfidence": "Very Low"
+  },
+  "Framer": {
+    "jobs": 2,
+    "avgBudgetFixed": 300.0,
+    "avgRateHourly": null,
+    "medianProposals": 2,
+    "opportunityScore": 8,
+    "sampleConfidence": "Very Low"
+  },
+  "GoHighLevel": {
+    "jobs": 1,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": 13,
+    "opportunityScore": 5,
+    "sampleConfidence": "Very Low"
+  },
+  "Shopify": {
+    "jobs": 1,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": 8,
+    "opportunityScore": 10,
+    "sampleConfidence": "Very Low"
+  },
+  "WooCommerce": {
+    "jobs": 2,
+    "avgBudgetFixed": 20.0,
+    "avgRateHourly": null,
+    "medianProposals": 1,
+    "opportunityScore": 3,
+    "sampleConfidence": "Very Low"
+  },
+  "Shopware": {
+    "jobs": 0,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": null,
+    "opportunityScore": 1,
+    "sampleConfidence": "Very Low"
+  },
+  "Lovable": {
+    "jobs": 1,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": 75,
+    "opportunityScore": 2,
+    "sampleConfidence": "Very Low"
+  },
+  "Bolt": {
+    "jobs": 1,
+    "avgBudgetFixed": 10.0,
+    "avgRateHourly": null,
+    "medianProposals": 6,
+    "opportunityScore": 1,
+    "sampleConfidence": "Very Low"
+  },
+  "v0": {
+    "jobs": 0,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": null,
+    "opportunityScore": 1,
+    "sampleConfidence": "Very Low"
+  },
+  "Next.js": {
+    "jobs": 2,
+    "avgBudgetFixed": null,
+    "avgRateHourly": 21.0,
+    "medianProposals": 6,
+    "opportunityScore": 5,
+    "sampleConfidence": "Very Low"
+  }
+}
