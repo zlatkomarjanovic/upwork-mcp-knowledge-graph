@@ -1,0 +1,611 @@
+{
+  "meta": {
+    "timestamp": "2026-09-13T00:13:04.098Z",
+    "slot": 0,
+    "groups": [
+      "Core Web Dev",
+      "Web Design",
+      "WordPress",
+      "Webflow/Framer"
+    ],
+    "keywordsSearched": [
+      "web development",
+      "website development",
+      "web developer",
+      "custom website",
+      "website builder",
+      "frontend developer",
+      "full stack developer",
+      "website project",
+      "web design",
+      "website design",
+      "website redesign",
+      "landing page design",
+      "UI UX website",
+      "responsive web design",
+      "homepage redesign",
+      "one page website",
+      "wordpress",
+      "wordpress developer",
+      "wordpress website",
+      "wordpress development",
+      "wordpress redesign",
+      "wordpress customization",
+      "wordpress migration",
+      "wordpress speed optimization",
+      "wordpress maintenance",
+      "woocommerce",
+      "elementor developer",
+      "bricks builder",
+      "headless wordpress",
+      "webflow",
+      "webflow developer",
+      "webflow website",
+      "webflow redesign",
+      "figma to webflow",
+      "webflow CMS",
+      "framer",
+      "framer developer",
+      "framer website",
+      "framer redesign",
+      "figma to framer",
+      "framer CMS"
+    ],
+    "jobsReturned": 13,
+    "poolFallback": true
+  },
+  "searches": [
+    {
+      "keyword": "web development",
+      "group": "Core Web Dev",
+      "jobs": [
+        {
+          "url": "https://www.upwork.com/jobs/~022098923272767552877?utm_campaign=LLM_cursor_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=cursor",
+          "title": "Web Development Help Needed",
+          "published_date": "2026-09-12T23:56:04.459Z",
+          "created_date": "2026-09-12T23:54:39.368Z",
+          "job_type": "fixed",
+          "budget": "$20.00",
+          "proposal_count": 3,
+          "client": {
+            "country": "United States"
+          },
+          "skills": [
+            "Web Development",
+            "WordPress"
+          ]
+        }
+      ]
+    },
+    {
+      "keyword": "website development",
+      "group": "Core Web Dev",
+      "jobs": []
+    },
+    {
+      "keyword": "web developer",
+      "group": "Core Web Dev",
+      "jobs": [
+        {
+          "url": "https://www.upwork.com/jobs/~022098893189771012941?utm_campaign=LLM_cursor_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=cursor",
+          "title": "Web Developer for Premium B2B Consulting Agency (English/Arabic RTL)",
+          "published_date": "2026-09-12T21:56:32.699Z",
+          "created_date": "2026-09-12T21:55:07.010Z",
+          "job_type": "fixed",
+          "budget": "$1,800.00",
+          "proposal_count": 4,
+          "client": {
+            "country": "India"
+          },
+          "skills": [
+            "Webflow",
+            "Web Development"
+          ]
+        }
+      ]
+    },
+    {
+      "keyword": "custom website",
+      "group": "Core Web Dev",
+      "jobs": []
+    },
+    {
+      "keyword": "website builder",
+      "group": "Core Web Dev",
+      "jobs": []
+    },
+    {
+      "keyword": "frontend developer",
+      "group": "Core Web Dev",
+      "jobs": []
+    },
+    {
+      "keyword": "full stack developer",
+      "group": "Core Web Dev",
+      "jobs": [
+        {
+          "url": "https://www.upwork.com/jobs/~022098873409705394312?utm_campaign=LLM_cursor_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=cursor",
+          "title": "Full-Stack Developer: TypeScript (TSX), Apple & Google Wallet Integration, Python APIs & Supabase",
+          "published_date": "2026-09-12T20:36:31.643Z",
+          "created_date": "2026-09-12T20:36:30.988Z",
+          "job_type": "fixed",
+          "budget": "$50.00",
+          "proposal_count": 9,
+          "client": {
+            "country": "United States",
+            "verification_status": "VERIFIED"
+          },
+          "skills": [
+            "TypeScript",
+            "Full-Stack Development"
+          ]
+        },
+        {
+          "url": "https://www.upwork.com/jobs/~022098689719456837272?utm_campaign=LLM_cursor_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=cursor",
+          "title": "Full-Stack Developer Needed to Turn Lovable Prototype into a Functional SaaS MVP",
+          "published_date": "2026-09-12T11:27:26.374Z",
+          "created_date": "2026-09-12T08:26:35.782Z",
+          "job_type": "fixed",
+          "budget": "$300.00",
+          "proposal_count": 35,
+          "client": {
+            "country": "Germany"
+          },
+          "skills": [
+            "lovable development",
+            "Full-Stack Development"
+          ]
+        }
+      ]
+    },
+    {
+      "keyword": "website project",
+      "group": "Core Web Dev",
+      "jobs": []
+    },
+    {
+      "keyword": "web design",
+      "group": "Web Design",
+      "jobs": [
+        {
+          "url": "https://www.upwork.com/jobs/~022098923677959032586?utm_campaign=LLM_cursor_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=cursor",
+          "title": "Webflow design optimization and improvement",
+          "published_date": "2026-09-12T23:57:40.733Z",
+          "created_date": "2026-09-12T23:56:15.964Z",
+          "job_type": "hourly",
+          "budget": "$18.00–$40.00/hr",
+          "proposal_count": 14,
+          "client": {
+            "country": "United States",
+            "verification_status": "VERIFIED"
+          },
+          "skills": [
+            "Webflow"
+          ]
+        }
+      ]
+    },
+    {
+      "keyword": "website design",
+      "group": "Web Design",
+      "jobs": []
+    },
+    {
+      "keyword": "website redesign",
+      "group": "Web Design",
+      "jobs": []
+    },
+    {
+      "keyword": "landing page design",
+      "group": "Web Design",
+      "jobs": [
+        {
+          "url": "https://www.upwork.com/jobs/~022098901171308408472?utm_campaign=LLM_cursor_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=cursor",
+          "title": "Landing Page Design for Google Ads",
+          "published_date": "2026-09-12T22:27:52.374Z",
+          "created_date": "2026-09-12T22:26:49.967Z",
+          "job_type": "hourly",
+          "budget": "$18.00–$40.00/hr",
+          "proposal_count": 29,
+          "client": {
+            "country": "United States",
+            "verification_status": "VERIFIED"
+          },
+          "skills": [
+            "Web Design",
+            "Landing Page"
+          ]
+        }
+      ]
+    },
+    {
+      "keyword": "UI UX website",
+      "group": "Web Design",
+      "jobs": []
+    },
+    {
+      "keyword": "responsive web design",
+      "group": "Web Design",
+      "jobs": []
+    },
+    {
+      "keyword": "homepage redesign",
+      "group": "Web Design",
+      "jobs": [
+        {
+          "url": "https://www.upwork.com/jobs/~022098911462071255176?utm_campaign=LLM_cursor_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=cursor",
+          "title": "WordPress Designer/Developer Needed for Homepage Redesign — Technology Advisory Firm",
+          "published_date": "2026-09-12T23:09:04.231Z",
+          "created_date": "2026-09-12T23:07:43.590Z",
+          "job_type": "fixed",
+          "budget": "$500.00",
+          "proposal_count": 28,
+          "client": {
+            "country": "USA",
+            "verification_status": "VERIFIED"
+          },
+          "skills": [
+            "WordPress Development"
+          ]
+        }
+      ]
+    },
+    {
+      "keyword": "one page website",
+      "group": "Web Design",
+      "jobs": []
+    },
+    {
+      "keyword": "wordpress",
+      "group": "WordPress",
+      "jobs": [
+        {
+          "url": "https://www.upwork.com/jobs/~022098911462071255176?utm_campaign=LLM_cursor_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=cursor",
+          "title": "WordPress Designer/Developer Needed for Homepage Redesign — Technology Advisory Firm",
+          "published_date": "2026-09-12T23:09:04.231Z",
+          "created_date": "2026-09-12T23:07:43.590Z",
+          "job_type": "fixed",
+          "budget": "$500.00",
+          "proposal_count": 28,
+          "client": {
+            "country": "USA",
+            "verification_status": "VERIFIED"
+          },
+          "skills": [
+            "WordPress Development"
+          ]
+        },
+        {
+          "url": "https://www.upwork.com/jobs/~022098875669724020077?utm_campaign=LLM_cursor_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=cursor",
+          "title": "Astro + Tailwind CSS Expert Needed to Rebuild a WordPress Website into a Fast Static Website",
+          "published_date": "2026-09-12T20:46:14.459Z",
+          "created_date": "2026-09-12T20:45:29.926Z",
+          "job_type": "fixed",
+          "budget": "$100.00",
+          "proposal_count": 11,
+          "client": {
+            "country": "AUS",
+            "verification_status": "VERIFIED",
+            "total_spent": "$867.25"
+          },
+          "skills": [
+            "Tailwind CSS",
+            "WordPress"
+          ]
+        }
+      ]
+    },
+    {
+      "keyword": "wordpress developer",
+      "group": "WordPress",
+      "jobs": [
+        {
+          "url": "https://www.upwork.com/jobs/~022098911462071255176?utm_campaign=LLM_cursor_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=cursor",
+          "title": "WordPress Designer/Developer Needed for Homepage Redesign — Technology Advisory Firm",
+          "published_date": "2026-09-12T23:09:04.231Z",
+          "created_date": "2026-09-12T23:07:43.590Z",
+          "job_type": "fixed",
+          "budget": "$500.00",
+          "proposal_count": 28,
+          "client": {
+            "country": "USA",
+            "verification_status": "VERIFIED"
+          },
+          "skills": [
+            "WordPress Development"
+          ]
+        }
+      ]
+    },
+    {
+      "keyword": "wordpress website",
+      "group": "WordPress",
+      "jobs": [
+        {
+          "url": "https://www.upwork.com/jobs/~022098875669724020077?utm_campaign=LLM_cursor_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=cursor",
+          "title": "Astro + Tailwind CSS Expert Needed to Rebuild a WordPress Website into a Fast Static Website",
+          "published_date": "2026-09-12T20:46:14.459Z",
+          "created_date": "2026-09-12T20:45:29.926Z",
+          "job_type": "fixed",
+          "budget": "$100.00",
+          "proposal_count": 11,
+          "client": {
+            "country": "AUS",
+            "verification_status": "VERIFIED",
+            "total_spent": "$867.25"
+          },
+          "skills": [
+            "Tailwind CSS",
+            "WordPress"
+          ]
+        }
+      ]
+    },
+    {
+      "keyword": "wordpress development",
+      "group": "WordPress",
+      "jobs": []
+    },
+    {
+      "keyword": "wordpress redesign",
+      "group": "WordPress",
+      "jobs": [
+        {
+          "url": "https://www.upwork.com/jobs/~022098911462071255176?utm_campaign=LLM_cursor_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=cursor",
+          "title": "WordPress Designer/Developer Needed for Homepage Redesign — Technology Advisory Firm",
+          "published_date": "2026-09-12T23:09:04.231Z",
+          "created_date": "2026-09-12T23:07:43.590Z",
+          "job_type": "fixed",
+          "budget": "$500.00",
+          "proposal_count": 28,
+          "client": {
+            "country": "USA",
+            "verification_status": "VERIFIED"
+          },
+          "skills": [
+            "WordPress Development"
+          ]
+        }
+      ]
+    },
+    {
+      "keyword": "wordpress customization",
+      "group": "WordPress",
+      "jobs": []
+    },
+    {
+      "keyword": "wordpress migration",
+      "group": "WordPress",
+      "jobs": []
+    },
+    {
+      "keyword": "wordpress speed optimization",
+      "group": "WordPress",
+      "jobs": []
+    },
+    {
+      "keyword": "wordpress maintenance",
+      "group": "WordPress",
+      "jobs": []
+    },
+    {
+      "keyword": "woocommerce",
+      "group": "WordPress",
+      "jobs": []
+    },
+    {
+      "keyword": "elementor developer",
+      "group": "WordPress",
+      "jobs": []
+    },
+    {
+      "keyword": "bricks builder",
+      "group": "WordPress",
+      "jobs": []
+    },
+    {
+      "keyword": "headless wordpress",
+      "group": "WordPress",
+      "jobs": []
+    },
+    {
+      "keyword": "webflow",
+      "group": "Webflow/Framer",
+      "jobs": [
+        {
+          "url": "https://www.upwork.com/jobs/~022098923677959032586?utm_campaign=LLM_cursor_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=cursor",
+          "title": "Webflow design optimization and improvement",
+          "published_date": "2026-09-12T23:57:40.733Z",
+          "created_date": "2026-09-12T23:56:15.964Z",
+          "job_type": "hourly",
+          "budget": "$18.00–$40.00/hr",
+          "proposal_count": 14,
+          "client": {
+            "country": "United States",
+            "verification_status": "VERIFIED"
+          },
+          "skills": [
+            "Webflow"
+          ]
+        }
+      ]
+    },
+    {
+      "keyword": "webflow developer",
+      "group": "Webflow/Framer",
+      "jobs": []
+    },
+    {
+      "keyword": "webflow website",
+      "group": "Webflow/Framer",
+      "jobs": []
+    },
+    {
+      "keyword": "webflow redesign",
+      "group": "Webflow/Framer",
+      "jobs": []
+    },
+    {
+      "keyword": "figma to webflow",
+      "group": "Webflow/Framer",
+      "jobs": []
+    },
+    {
+      "keyword": "webflow CMS",
+      "group": "Webflow/Framer",
+      "jobs": []
+    },
+    {
+      "keyword": "framer",
+      "group": "Webflow/Framer",
+      "jobs": []
+    },
+    {
+      "keyword": "framer developer",
+      "group": "Webflow/Framer",
+      "jobs": []
+    },
+    {
+      "keyword": "framer website",
+      "group": "Webflow/Framer",
+      "jobs": []
+    },
+    {
+      "keyword": "framer redesign",
+      "group": "Webflow/Framer",
+      "jobs": []
+    },
+    {
+      "keyword": "figma to framer",
+      "group": "Webflow/Framer",
+      "jobs": []
+    },
+    {
+      "keyword": "framer CMS",
+      "group": "Webflow/Framer",
+      "jobs": []
+    }
+  ],
+  "failures": [
+    {
+      "keyword": "website development",
+      "error": "no partial and no pool title match"
+    },
+    {
+      "keyword": "custom website",
+      "error": "no partial and no pool title match"
+    },
+    {
+      "keyword": "website builder",
+      "error": "no partial and no pool title match"
+    },
+    {
+      "keyword": "frontend developer",
+      "error": "no partial and no pool title match"
+    },
+    {
+      "keyword": "website project",
+      "error": "no partial and no pool title match"
+    },
+    {
+      "keyword": "website design",
+      "error": "no partial and no pool title match"
+    },
+    {
+      "keyword": "website redesign",
+      "error": "no partial and no pool title match"
+    },
+    {
+      "keyword": "UI UX website",
+      "error": "no partial and no pool title match"
+    },
+    {
+      "keyword": "responsive web design",
+      "error": "no partial and no pool title match"
+    },
+    {
+      "keyword": "one page website",
+      "error": "no partial and no pool title match"
+    },
+    {
+      "keyword": "wordpress development",
+      "error": "no partial and no pool title match"
+    },
+    {
+      "keyword": "wordpress customization",
+      "error": "no partial and no pool title match"
+    },
+    {
+      "keyword": "wordpress migration",
+      "error": "no partial and no pool title match"
+    },
+    {
+      "keyword": "wordpress speed optimization",
+      "error": "no partial and no pool title match"
+    },
+    {
+      "keyword": "wordpress maintenance",
+      "error": "no partial and no pool title match"
+    },
+    {
+      "keyword": "woocommerce",
+      "error": "no partial and no pool title match"
+    },
+    {
+      "keyword": "elementor developer",
+      "error": "no partial and no pool title match"
+    },
+    {
+      "keyword": "bricks builder",
+      "error": "no partial and no pool title match"
+    },
+    {
+      "keyword": "headless wordpress",
+      "error": "no partial and no pool title match"
+    },
+    {
+      "keyword": "webflow developer",
+      "error": "no partial and no pool title match"
+    },
+    {
+      "keyword": "webflow website",
+      "error": "no partial and no pool title match"
+    },
+    {
+      "keyword": "webflow redesign",
+      "error": "no partial and no pool title match"
+    },
+    {
+      "keyword": "figma to webflow",
+      "error": "no partial and no pool title match"
+    },
+    {
+      "keyword": "webflow CMS",
+      "error": "no partial and no pool title match"
+    },
+    {
+      "keyword": "framer",
+      "error": "no partial and no pool title match"
+    },
+    {
+      "keyword": "framer developer",
+      "error": "no partial and no pool title match"
+    },
+    {
+      "keyword": "framer website",
+      "error": "no partial and no pool title match"
+    },
+    {
+      "keyword": "framer redesign",
+      "error": "no partial and no pool title match"
+    },
+    {
+      "keyword": "figma to framer",
+      "error": "no partial and no pool title match"
+    },
+    {
+      "keyword": "framer CMS",
+      "error": "no partial and no pool title match"
+    }
+  ]
+}
