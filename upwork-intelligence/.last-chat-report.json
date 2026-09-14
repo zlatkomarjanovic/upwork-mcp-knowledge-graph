@@ -1,0 +1,513 @@
+{
+  "runNumber": 4,
+  "keywordsAttempted": 93,
+  "keywordsCompleted": 25,
+  "newJobs": 7,
+  "totalJobs": 17,
+  "top10": [
+    {
+      "keyword": "custom website",
+      "totalJobs": 1,
+      "jobsLast24h": 1,
+      "avgBudgetFixed": 1000,
+      "avgRateHourly": null,
+      "medianProposals": 4,
+      "pctVerified": 1,
+      "avgClientSpend": null,
+      "pctHighBudget": 1,
+      "sampleConfidence": "Very Low",
+      "opportunityScore": 48
+    },
+    {
+      "keyword": "web development",
+      "totalJobs": 7,
+      "jobsLast24h": 7,
+      "avgBudgetFixed": 18.333333333333332,
+      "avgRateHourly": 32.5,
+      "medianProposals": 8,
+      "pctVerified": 0.8571428571428571,
+      "avgClientSpend": 54342.192,
+      "pctHighBudget": 0.14285714285714285,
+      "sampleConfidence": "Low",
+      "opportunityScore": 45
+    },
+    {
+      "keyword": "full stack developer",
+      "totalJobs": 2,
+      "jobsLast24h": 2,
+      "avgBudgetFixed": null,
+      "avgRateHourly": 54.5,
+      "medianProposals": 5,
+      "pctVerified": 0.5,
+      "avgClientSpend": 87235.45,
+      "pctHighBudget": 0.5,
+      "sampleConfidence": "Very Low",
+      "opportunityScore": 43
+    },
+    {
+      "keyword": "wordpress",
+      "totalJobs": 3,
+      "jobsLast24h": 3,
+      "avgBudgetFixed": 90,
+      "avgRateHourly": 22.5,
+      "medianProposals": 10,
+      "pctVerified": 1,
+      "avgClientSpend": 12433.53,
+      "pctHighBudget": 0,
+      "sampleConfidence": "Very Low",
+      "opportunityScore": 36
+    },
+    {
+      "keyword": "gohighlevel",
+      "totalJobs": 1,
+      "jobsLast24h": 1,
+      "avgBudgetFixed": 1000,
+      "avgRateHourly": null,
+      "medianProposals": 66,
+      "pctVerified": 1,
+      "avgClientSpend": 2892.53,
+      "pctHighBudget": 1,
+      "sampleConfidence": "Very Low",
+      "opportunityScore": 36
+    },
+    {
+      "keyword": "GHL",
+      "totalJobs": 1,
+      "jobsLast24h": 1,
+      "avgBudgetFixed": 1000,
+      "avgRateHourly": null,
+      "medianProposals": 66,
+      "pctVerified": 1,
+      "avgClientSpend": 2892.53,
+      "pctHighBudget": 1,
+      "sampleConfidence": "Very Low",
+      "opportunityScore": 36
+    },
+    {
+      "keyword": "gohighlevel developer",
+      "totalJobs": 1,
+      "jobsLast24h": 1,
+      "avgBudgetFixed": 1000,
+      "avgRateHourly": null,
+      "medianProposals": 66,
+      "pctVerified": 1,
+      "avgClientSpend": 2892.53,
+      "pctHighBudget": 1,
+      "sampleConfidence": "Very Low",
+      "opportunityScore": 36
+    },
+    {
+      "keyword": "wordpress developer",
+      "totalJobs": 2,
+      "jobsLast24h": 2,
+      "avgBudgetFixed": null,
+      "avgRateHourly": 22.5,
+      "medianProposals": 14,
+      "pctVerified": 1,
+      "avgClientSpend": 20780,
+      "pctHighBudget": 0,
+      "sampleConfidence": "Very Low",
+      "opportunityScore": 34
+    },
+    {
+      "keyword": "wordpress website",
+      "totalJobs": 2,
+      "jobsLast24h": 2,
+      "avgBudgetFixed": null,
+      "avgRateHourly": 22.5,
+      "medianProposals": 14,
+      "pctVerified": 1,
+      "avgClientSpend": 20780,
+      "pctHighBudget": 0,
+      "sampleConfidence": "Very Low",
+      "opportunityScore": 34
+    },
+    {
+      "keyword": "AI web developer",
+      "totalJobs": 1,
+      "jobsLast24h": 1,
+      "avgBudgetFixed": null,
+      "avgRateHourly": 14,
+      "medianProposals": 5,
+      "pctVerified": 1,
+      "avgClientSpend": 87235.45,
+      "pctHighBudget": 0,
+      "sampleConfidence": "Very Low",
+      "opportunityScore": 33
+    }
+  ],
+  "topGroups": [
+    [
+      "CORE WEB DEVELOPMENT",
+      {
+        "totalJobs": 10,
+        "jobsLast24h": 10,
+        "avgOpportunityScore": 25.666666666666668,
+        "keywordCount": 6
+      }
+    ],
+    [
+      "WORDPRESS",
+      {
+        "totalJobs": 11,
+        "jobsLast24h": 11,
+        "avgOpportunityScore": 19.333333333333332,
+        "keywordCount": 12
+      }
+    ],
+    [
+      "GOHIGHLEVEL",
+      {
+        "totalJobs": 3,
+        "jobsLast24h": 3,
+        "avgOpportunityScore": 17.25,
+        "keywordCount": 8
+      }
+    ],
+    [
+      "ECOMMERCE",
+      {
+        "totalJobs": 3,
+        "jobsLast24h": 3,
+        "avgOpportunityScore": 11.444444444444445,
+        "keywordCount": 9
+      }
+    ],
+    [
+      "AI / VIBE CODING",
+      {
+        "totalJobs": 2,
+        "jobsLast24h": 2,
+        "avgOpportunityScore": 9.857142857142858,
+        "keywordCount": 14
+      }
+    ]
+  ],
+  "platformStats": {
+    "WordPress": {
+      "jobs": 3,
+      "avgBudgetFixed": 90,
+      "avgRateHourly": 22.5,
+      "medianProposals": 10,
+      "sampleConfidence": "Very Low",
+      "opportunityScore": 36
+    },
+    "Webflow": {
+      "jobs": 1,
+      "avgBudgetFixed": null,
+      "avgRateHourly": null,
+      "medianProposals": 80,
+      "sampleConfidence": "Very Low",
+      "opportunityScore": 16
+    },
+    "Framer": {
+      "jobs": 0,
+      "avgBudgetFixed": null,
+      "avgRateHourly": null,
+      "medianProposals": null,
+      "sampleConfidence": "Very Low",
+      "opportunityScore": 6
+    },
+    "GoHighLevel": {
+      "jobs": 1,
+      "avgBudgetFixed": 1000,
+      "avgRateHourly": null,
+      "medianProposals": 66,
+      "sampleConfidence": "Very Low",
+      "opportunityScore": 36
+    },
+    "Shopify": {
+      "jobs": 1,
+      "avgBudgetFixed": null,
+      "avgRateHourly": null,
+      "medianProposals": 6,
+      "sampleConfidence": "Very Low",
+      "opportunityScore": 30
+    },
+    "WooCommerce": {
+      "jobs": 2,
+      "avgBudgetFixed": 145,
+      "avgRateHourly": null,
+      "medianProposals": 13,
+      "sampleConfidence": "Very Low",
+      "opportunityScore": 31
+    },
+    "Shopware": {
+      "jobs": 0,
+      "avgBudgetFixed": null,
+      "avgRateHourly": null,
+      "medianProposals": null,
+      "sampleConfidence": "Very Low",
+      "opportunityScore": 6
+    },
+    "Lovable": {
+      "jobs": 0,
+      "avgBudgetFixed": null,
+      "avgRateHourly": null,
+      "medianProposals": null,
+      "sampleConfidence": "Very Low",
+      "opportunityScore": 6
+    },
+    "Bolt": {
+      "jobs": 0,
+      "avgBudgetFixed": null,
+      "avgRateHourly": null,
+      "medianProposals": null,
+      "sampleConfidence": "Very Low",
+      "opportunityScore": 6
+    },
+    "v0": {
+      "jobs": 0,
+      "avgBudgetFixed": null,
+      "avgRateHourly": null,
+      "medianProposals": null,
+      "sampleConfidence": "Very Low",
+      "opportunityScore": 6
+    },
+    "Next.js": {
+      "jobs": 0,
+      "avgBudgetFixed": null,
+      "avgRateHourly": null,
+      "medianProposals": null,
+      "sampleConfidence": "Very Low",
+      "opportunityScore": 6
+    }
+  },
+  "newJobsList": [
+    {
+      "url": "https://www.upwork.com/jobs/~022099579050739076874",
+      "title": "Web Scraping needed for a small project",
+      "matchedKeyword": [
+        "web development"
+      ],
+      "keywordGroup": "CORE WEB DEVELOPMENT",
+      "postedAt": "2026-09-14T19:39:37.324Z",
+      "type": "fixed",
+      "budget": "15.00",
+      "hourlyRate": null,
+      "duration": null,
+      "proposals": null,
+      "clientCountry": "Pakistan",
+      "paymentVerified": true,
+      "clientSpend": "$33,237.73",
+      "clientHireRate": null,
+      "clientRating": 4.31,
+      "experienceLevel": null,
+      "skills": [
+        "Web Scraping Software"
+      ]
+    },
+    {
+      "url": "https://www.upwork.com/jobs/~022099583534173595229",
+      "title": "Wordpress Day to Day update of website",
+      "matchedKeyword": [
+        "web development"
+      ],
+      "keywordGroup": "CORE WEB DEVELOPMENT",
+      "postedAt": "2026-09-14T19:39:34.765Z",
+      "type": "hourly",
+      "budget": null,
+      "hourlyRate": null,
+      "duration": null,
+      "proposals": null,
+      "clientCountry": "United Kingdom",
+      "paymentVerified": true,
+      "clientSpend": "$217,829.55",
+      "clientHireRate": null,
+      "clientRating": 4.92,
+      "experienceLevel": null,
+      "skills": [
+        "Elementor",
+        "WordPress"
+      ]
+    },
+    {
+      "url": "https://www.upwork.com/jobs/~022099582366793568010",
+      "title": "Shopify Developer",
+      "matchedKeyword": [
+        "web development"
+      ],
+      "keywordGroup": "CORE WEB DEVELOPMENT",
+      "postedAt": "2026-09-14T19:35:09.169Z",
+      "type": "hourly",
+      "budget": null,
+      "hourlyRate": "35.00–60.00/hr",
+      "duration": null,
+      "proposals": 10,
+      "clientCountry": "United States",
+      "paymentVerified": true,
+      "clientSpend": "$14,512.86",
+      "clientHireRate": null,
+      "clientRating": 4.98,
+      "experienceLevel": null,
+      "skills": [
+        "Shopify Development"
+      ]
+    },
+    {
+      "url": "https://www.upwork.com/jobs/~022099574627858173434",
+      "title": "Shopify Product Page Redesign",
+      "matchedKeyword": [
+        "web development"
+      ],
+      "keywordGroup": "CORE WEB DEVELOPMENT",
+      "postedAt": "2026-09-14T19:29:02.391Z",
+      "type": "fixed",
+      "budget": "15.00",
+      "hourlyRate": null,
+      "duration": null,
+      "proposals": 3,
+      "clientCountry": "United States",
+      "paymentVerified": true,
+      "clientSpend": null,
+      "clientHireRate": null,
+      "clientRating": null,
+      "experienceLevel": null,
+      "skills": [
+        "Shopify"
+      ]
+    },
+    {
+      "url": "https://www.upwork.com/jobs/~022099576826644507469",
+      "title": "WordPress Developer Needed to Fix Header & Navigation Menu",
+      "matchedKeyword": [
+        "web development"
+      ],
+      "keywordGroup": "CORE WEB DEVELOPMENT",
+      "postedAt": "2026-09-14T19:13:03.273Z",
+      "type": "fixed",
+      "budget": "25.00",
+      "hourlyRate": null,
+      "duration": null,
+      "proposals": 20,
+      "clientCountry": "United States",
+      "paymentVerified": true,
+      "clientSpend": "$4,462.39",
+      "clientHireRate": null,
+      "clientRating": 4.99,
+      "experienceLevel": null,
+      "skills": [
+        "WordPress"
+      ]
+    },
+    {
+      "url": "https://www.upwork.com/jobs/~022099576577070252168",
+      "title": "Fix mobile responsiveness on my Framer site",
+      "matchedKeyword": [
+        "web development"
+      ],
+      "keywordGroup": "CORE WEB DEVELOPMENT",
+      "postedAt": "2026-09-14T19:12:12.920Z",
+      "type": "hourly",
+      "budget": null,
+      "hourlyRate": "5.00–30.00/hr",
+      "duration": null,
+      "proposals": 8,
+      "clientCountry": "Nigeria",
+      "paymentVerified": true,
+      "clientSpend": "$1,668.43",
+      "clientHireRate": null,
+      "clientRating": 4.99,
+      "experienceLevel": null,
+      "skills": [
+        "Framer"
+      ]
+    },
+    {
+      "url": "https://www.upwork.com/jobs/~022099578499565669881",
+      "title": "Digital Magazine Mockup Developer",
+      "matchedKeyword": [
+        "web development"
+      ],
+      "keywordGroup": "CORE WEB DEVELOPMENT",
+      "postedAt": "2026-09-14T19:19:34.267Z",
+      "type": "hourly",
+      "budget": null,
+      "hourlyRate": null,
+      "duration": null,
+      "proposals": 5,
+      "clientCountry": "United States",
+      "paymentVerified": null,
+      "clientSpend": null,
+      "clientHireRate": null,
+      "clientRating": null,
+      "experienceLevel": null,
+      "skills": [
+        "Claude Skills",
+        "Web Design"
+      ]
+    }
+  ],
+  "errors": [
+    "website development",
+    "web developer",
+    "frontend developer",
+    "web design",
+    "website design",
+    "website redesign",
+    "landing page design",
+    "UI UX website",
+    "responsive web design",
+    "wordpress redesign",
+    "wordpress customization",
+    "wordpress migration",
+    "wordpress speed optimization",
+    "elementor developer",
+    "bricks builder",
+    "webflow website",
+    "figma to webflow",
+    "framer redesign",
+    "figma to framer",
+    "AI web development",
+    "vibe coding",
+    "claude code developer",
+    "lovable developer",
+    "lovable app",
+    "bolt developer",
+    "bolt.new",
+    "v0 developer",
+    "v0 vercel",
+    "replit developer",
+    "supabase developer",
+    "AI agent integration website",
+    "go high level",
+    "gohighlevel website",
+    "gohighlevel funnel",
+    "gohighlevel automation",
+    "gohighlevel CRM",
+    "squarespace website",
+    "wix website",
+    "wix studio",
+    "bubble developer",
+    "next.js developer",
+    "nextjs website",
+    "figma to nextjs",
+    "tailwind developer",
+    "astro developer",
+    "sanity CMS",
+    "ecommerce website",
+    "ecommerce developer",
+    "shopify website",
+    "shopware",
+    "shopware developer",
+    "shopware 6",
+    "headless ecommerce",
+    "website maintenance monthly",
+    "website support ongoing",
+    "website management ongoing",
+    "wordpress support retainer",
+    "webflow maintenance",
+    "shopify maintenance",
+    "ongoing web developer",
+    "web development retainer",
+    "conversion rate optimization",
+    "landing page optimization",
+    "website audit",
+    "core web vitals",
+    "page speed optimization",
+    "website speed optimization",
+    "technical SEO website"
+  ],
+  "primary": "custom website",
+  "secondary": "web development"
+}
