@@ -1,11 +1,11 @@
 {
   "WordPress": {
-    "jobs": 3,
-    "avgBudgetFixed": 90,
-    "avgRateHourly": 22.5,
-    "medianProposals": 10,
-    "sampleConfidence": "Very Low",
-    "opportunityScore": 36
+    "jobs": 7,
+    "avgBudgetFixed": 53.333333333333336,
+    "avgRateHourly": 28,
+    "medianProposals": 14,
+    "sampleConfidence": "Low",
+    "opportunityScore": 41
   },
   "Webflow": {
     "jobs": 1,

@@ -1,9 +1,9 @@
 {
-  "runNumber": 4,
+  "runNumber": 6,
   "keywordsAttempted": 93,
-  "keywordsCompleted": 25,
-  "newJobs": 7,
-  "totalJobs": 17,
+  "keywordsCompleted": 27,
+  "newJobs": 4,
+  "totalJobs": 21,
   "top10": [
     {
       "keyword": "custom website",
@@ -149,9 +149,9 @@
     [
       "WORDPRESS",
       {
-        "totalJobs": 11,
-        "jobsLast24h": 11,
-        "avgOpportunityScore": 19.333333333333332,
+        "totalJobs": 15,
+        "jobsLast24h": 15,
+        "avgOpportunityScore": 21.333333333333332,
         "keywordCount": 12
       }
     ],
@@ -185,12 +185,12 @@
   ],
   "platformStats": {
     "WordPress": {
-      "jobs": 3,
-      "avgBudgetFixed": 90,
-      "avgRateHourly": 22.5,
-      "medianProposals": 10,
-      "sampleConfidence": "Very Low",
-      "opportunityScore": 36
+      "jobs": 7,
+      "avgBudgetFixed": 53.333333333333336,
+      "avgRateHourly": 28,
+      "medianProposals": 14,
+      "sampleConfidence": "Low",
+      "opportunityScore": 41
     },
     "Webflow": {
       "jobs": 1,
@@ -275,171 +275,118 @@
   },
   "newJobsList": [
     {
-      "url": "https://www.upwork.com/jobs/~022099579050739076874",
-      "title": "Web Scraping needed for a small project",
+      "url": "https://www.upwork.com/jobs/~022099581035469187917",
+      "title": "Senior WordPress Developer / Custom Theme Engineer (Enterprise B2B Global Commodities Website)",
       "matchedKeyword": [
-        "web development"
+        "wordpress redesign"
       ],
-      "keywordGroup": "CORE WEB DEVELOPMENT",
-      "postedAt": "2026-09-14T19:39:37.324Z",
+      "keywordGroup": "WORDPRESS",
+      "postedAt": "2026-09-14T19:29:43.692Z",
       "type": "fixed",
-      "budget": "15.00",
+      "budget": "20.00",
       "hourlyRate": null,
-      "duration": null,
+      "duration": "1 to 3 months",
       "proposals": null,
       "clientCountry": "Pakistan",
-      "paymentVerified": true,
-      "clientSpend": "$33,237.73",
-      "clientHireRate": null,
-      "clientRating": 4.31,
-      "experienceLevel": null,
-      "skills": [
-        "Web Scraping Software"
-      ]
-    },
-    {
-      "url": "https://www.upwork.com/jobs/~022099583534173595229",
-      "title": "Wordpress Day to Day update of website",
-      "matchedKeyword": [
-        "web development"
-      ],
-      "keywordGroup": "CORE WEB DEVELOPMENT",
-      "postedAt": "2026-09-14T19:39:34.765Z",
-      "type": "hourly",
-      "budget": null,
-      "hourlyRate": null,
-      "duration": null,
-      "proposals": null,
-      "clientCountry": "United Kingdom",
-      "paymentVerified": true,
-      "clientSpend": "$217,829.55",
-      "clientHireRate": null,
-      "clientRating": 4.92,
-      "experienceLevel": null,
-      "skills": [
-        "Elementor",
-        "WordPress"
-      ]
-    },
-    {
-      "url": "https://www.upwork.com/jobs/~022099582366793568010",
-      "title": "Shopify Developer",
-      "matchedKeyword": [
-        "web development"
-      ],
-      "keywordGroup": "CORE WEB DEVELOPMENT",
-      "postedAt": "2026-09-14T19:35:09.169Z",
-      "type": "hourly",
-      "budget": null,
-      "hourlyRate": "35.00–60.00/hr",
-      "duration": null,
-      "proposals": 10,
-      "clientCountry": "United States",
-      "paymentVerified": true,
-      "clientSpend": "$14,512.86",
-      "clientHireRate": null,
-      "clientRating": 4.98,
-      "experienceLevel": null,
-      "skills": [
-        "Shopify Development"
-      ]
-    },
-    {
-      "url": "https://www.upwork.com/jobs/~022099574627858173434",
-      "title": "Shopify Product Page Redesign",
-      "matchedKeyword": [
-        "web development"
-      ],
-      "keywordGroup": "CORE WEB DEVELOPMENT",
-      "postedAt": "2026-09-14T19:29:02.391Z",
-      "type": "fixed",
-      "budget": "15.00",
-      "hourlyRate": null,
-      "duration": null,
-      "proposals": 3,
-      "clientCountry": "United States",
-      "paymentVerified": true,
-      "clientSpend": null,
-      "clientHireRate": null,
-      "clientRating": null,
-      "experienceLevel": null,
-      "skills": [
-        "Shopify"
-      ]
-    },
-    {
-      "url": "https://www.upwork.com/jobs/~022099576826644507469",
-      "title": "WordPress Developer Needed to Fix Header & Navigation Menu",
-      "matchedKeyword": [
-        "web development"
-      ],
-      "keywordGroup": "CORE WEB DEVELOPMENT",
-      "postedAt": "2026-09-14T19:13:03.273Z",
-      "type": "fixed",
-      "budget": "25.00",
-      "hourlyRate": null,
-      "duration": null,
-      "proposals": 20,
-      "clientCountry": "United States",
-      "paymentVerified": true,
-      "clientSpend": "$4,462.39",
-      "clientHireRate": null,
-      "clientRating": 4.99,
-      "experienceLevel": null,
-      "skills": [
-        "WordPress"
-      ]
-    },
-    {
-      "url": "https://www.upwork.com/jobs/~022099576577070252168",
-      "title": "Fix mobile responsiveness on my Framer site",
-      "matchedKeyword": [
-        "web development"
-      ],
-      "keywordGroup": "CORE WEB DEVELOPMENT",
-      "postedAt": "2026-09-14T19:12:12.920Z",
-      "type": "hourly",
-      "budget": null,
-      "hourlyRate": "5.00–30.00/hr",
-      "duration": null,
-      "proposals": 8,
-      "clientCountry": "Nigeria",
-      "paymentVerified": true,
-      "clientSpend": "$1,668.43",
-      "clientHireRate": null,
-      "clientRating": 4.99,
-      "experienceLevel": null,
-      "skills": [
-        "Framer"
-      ]
-    },
-    {
-      "url": "https://www.upwork.com/jobs/~022099578499565669881",
-      "title": "Digital Magazine Mockup Developer",
-      "matchedKeyword": [
-        "web development"
-      ],
-      "keywordGroup": "CORE WEB DEVELOPMENT",
-      "postedAt": "2026-09-14T19:19:34.267Z",
-      "type": "hourly",
-      "budget": null,
-      "hourlyRate": null,
-      "duration": null,
-      "proposals": 5,
-      "clientCountry": "United States",
       "paymentVerified": null,
       "clientSpend": null,
       "clientHireRate": null,
       "clientRating": null,
-      "experienceLevel": null,
+      "experienceLevel": "intermediate",
       "skills": [
-        "Claude Skills",
+        "WordPress",
+        "Web Development",
+        "PHP",
+        "Web Design"
+      ]
+    },
+    {
+      "url": "https://www.upwork.com/jobs/~022099534886590033560",
+      "title": "Web Developer Needed to Build a Homepage",
+      "matchedKeyword": [
+        "wordpress redesign"
+      ],
+      "keywordGroup": "WORDPRESS",
+      "postedAt": "2026-09-14T19:25:58.991Z",
+      "type": "hourly",
+      "budget": null,
+      "hourlyRate": "18.00–60.00/hr",
+      "duration": "1 to 3 months",
+      "proposals": 64,
+      "clientCountry": "USA",
+      "paymentVerified": true,
+      "clientSpend": "$465.24",
+      "clientHireRate": null,
+      "clientRating": 5,
+      "experienceLevel": "expert",
+      "skills": [
+        "Responsive Design",
+        "Adaptive Web Design",
+        "UI/UX Prototyping",
+        "JavaScript",
+        "SCSS",
+        "Custom Web Design",
+        "Website Redesign",
+        "Website Customization"
+      ]
+    },
+    {
+      "url": "https://www.upwork.com/jobs/~022099574475503876414",
+      "title": "Wordpress Website Redesign JOB, 24-48 Hours Job",
+      "matchedKeyword": [
+        "wordpress redesign"
+      ],
+      "keywordGroup": "WORDPRESS",
+      "postedAt": "2026-09-14T19:03:47.595Z",
+      "type": "hourly",
+      "budget": null,
+      "hourlyRate": "15.00–30.00/hr",
+      "duration": "Less than 1 month",
+      "proposals": 40,
+      "clientCountry": "Norway",
+      "paymentVerified": true,
+      "clientSpend": null,
+      "clientHireRate": null,
+      "clientRating": null,
+      "experienceLevel": "expert",
+      "skills": [
+        "WordPress",
+        "WordPress Customization",
+        "WordPress Website Design",
+        "Website Redesign",
+        "WordPress Website",
+        "Website Builders & CMS Platforms"
+      ]
+    },
+    {
+      "url": "https://www.upwork.com/jobs/~022099571732454909533",
+      "title": "Website Developer",
+      "matchedKeyword": [
+        "wordpress redesign"
+      ],
+      "keywordGroup": "WORDPRESS",
+      "postedAt": "2026-09-14T18:52:11.960Z",
+      "type": "fixed",
+      "budget": "50.00",
+      "hourlyRate": null,
+      "duration": "Less than 1 month",
+      "proposals": 7,
+      "clientCountry": "India",
+      "paymentVerified": true,
+      "clientSpend": null,
+      "clientHireRate": null,
+      "clientRating": null,
+      "experienceLevel": "intermediate",
+      "skills": [
+        "Web Development",
+        "Website Builder",
+        "Web Page",
+        "WordPress Development",
         "Web Design"
       ]
     }
   ],
   "errors": [
-    "website development",
     "web developer",
     "frontend developer",
     "web design",
@@ -448,7 +395,6 @@
     "landing page design",
     "UI UX website",
     "responsive web design",
-    "wordpress redesign",
     "wordpress customization",
     "wordpress migration",
     "wordpress speed optimization",

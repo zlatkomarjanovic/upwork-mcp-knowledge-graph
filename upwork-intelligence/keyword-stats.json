@@ -192,16 +192,16 @@
     "opportunityScore": 30
   },
   "wordpress redesign": {
-    "totalJobs": 0,
-    "jobsLast24h": 0,
-    "avgBudgetFixed": null,
-    "avgRateHourly": null,
-    "medianProposals": null,
-    "pctVerified": 0,
-    "avgClientSpend": null,
+    "totalJobs": 4,
+    "jobsLast24h": 4,
+    "avgBudgetFixed": 35,
+    "avgRateHourly": 30.75,
+    "medianProposals": 40,
+    "pctVerified": 0.75,
+    "avgClientSpend": 465.24,
     "pctHighBudget": 0,
     "sampleConfidence": "Very Low",
-    "opportunityScore": 6
+    "opportunityScore": 30
   },
   "wordpress customization": {
     "totalJobs": 0,

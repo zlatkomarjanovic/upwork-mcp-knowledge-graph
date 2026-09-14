@@ -1,10 +1,10 @@
 # Upwork Market Intelligence
 
-Last updated: 2026-09-14T19:41:35.091Z
-Run: 4
-Total jobs tracked: 17
+Last updated: 2026-09-14T19:51:35.393Z
+Run: 6
+Total jobs tracked: 21
 Keywords attempted: 93
-Keywords completed: 25
+Keywords completed: 27
 
 ## Top Opportunities
 
@@ -101,7 +101,7 @@ Keywords completed: 25
 ## Strongest Groups
 
 - CORE WEB DEVELOPMENT: jobs24h 10, total 10, avg score 26
-- WORDPRESS: jobs24h 11, total 11, avg score 19
+- WORDPRESS: jobs24h 15, total 15, avg score 21
 - GOHIGHLEVEL: jobs24h 3, total 3, avg score 17
 - ECOMMERCE: jobs24h 3, total 3, avg score 11
 - AI / VIBE CODING: jobs24h 2, total 2, avg score 10
@@ -114,7 +114,7 @@ Keywords completed: 25
 
 ## Platform Ranking
 
-- WordPress: score 36, jobs 3, confidence Very Low
+- WordPress: score 41, jobs 7, confidence Low
 - GoHighLevel: score 36, jobs 1, confidence Very Low
 - WooCommerce: score 31, jobs 2, confidence Very Low
 - Shopify: score 30, jobs 1, confidence Very Low
