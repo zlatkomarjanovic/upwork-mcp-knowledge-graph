@@ -3,7 +3,7 @@
 Last updated: 2026-09-14T23:36:51.348Z  
 Run: 1  
 Total jobs tracked: 0  
-Keywords attempted: 93  
+Keywords attempted: 28 (65 skipped after account-wide search block confirmed)  
 Keywords completed: 0  
 
 ## Top Opportunities
