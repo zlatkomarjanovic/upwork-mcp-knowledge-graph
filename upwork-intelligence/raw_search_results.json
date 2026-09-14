@@ -1,0 +1,45 @@
+{
+  "searches": [
+    {
+      "keyword": "web development",
+      "response": {
+        "status": "ok",
+        "jobs": [],
+        "error": "not_found"
+      }
+    },
+    {
+      "keyword": "website development",
+      "response": {
+        "status": "ok",
+        "jobs": [],
+        "error": "not_found"
+      }
+    },
+    {
+      "keyword": "web developer",
+      "response": {
+        "status": "ok",
+        "jobs": [],
+        "error": "not_found"
+      }
+    },
+    {
+      "keyword": "custom website",
+      "response": {
+        "status": "ok",
+        "jobs": [],
+        "error": "not_found"
+      }
+    },
+    {
+      "keyword": "frontend developer",
+      "response": {
+        "status": "ok",
+        "jobs": [],
+        "error": "not_found"
+      }
+    }
+  ],
+  "errors": []
+}
