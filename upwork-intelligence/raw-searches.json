@@ -1,0 +1,589 @@
+{
+  "runAt": "2026-09-14T15:32:06.886Z",
+  "windowHours": 2,
+  "searches": [
+    {
+      "keyword": "web development",
+      "status": "ok",
+      "jobs": []
+    },
+    {
+      "keyword": "website development",
+      "status": "ok",
+      "jobs": []
+    },
+    {
+      "keyword": "web developer",
+      "status": "ok",
+      "jobs": []
+    },
+    {
+      "keyword": "custom website",
+      "status": "ok",
+      "jobs": []
+    },
+    {
+      "keyword": "frontend developer",
+      "status": "ok",
+      "jobs": []
+    },
+    {
+      "keyword": "full stack developer",
+      "status": "ok",
+      "jobs": []
+    },
+    {
+      "keyword": "web design",
+      "status": "ok",
+      "jobs": []
+    },
+    {
+      "keyword": "website design",
+      "status": "ok",
+      "jobs": []
+    },
+    {
+      "keyword": "website redesign",
+      "status": "ok",
+      "jobs": []
+    },
+    {
+      "keyword": "landing page design",
+      "status": "ok",
+      "jobs": []
+    },
+    {
+      "keyword": "UI UX website",
+      "status": "ok",
+      "jobs": []
+    },
+    {
+      "keyword": "responsive web design",
+      "status": "ok",
+      "jobs": []
+    },
+    {
+      "keyword": "wordpress",
+      "status": "ok",
+      "jobs": []
+    },
+    {
+      "keyword": "wordpress developer",
+      "status": "ok",
+      "jobs": []
+    },
+    {
+      "keyword": "wordpress website",
+      "status": "ok",
+      "jobs": []
+    },
+    {
+      "keyword": "wordpress development",
+      "status": "ok",
+      "jobs": []
+    },
+    {
+      "keyword": "wordpress redesign",
+      "status": "ok",
+      "jobs": []
+    },
+    {
+      "keyword": "wordpress customization",
+      "status": "ok",
+      "jobs": []
+    },
+    {
+      "keyword": "wordpress migration",
+      "status": "ok",
+      "jobs": []
+    },
+    {
+      "keyword": "wordpress speed optimization",
+      "status": "ok",
+      "jobs": []
+    },
+    {
+      "keyword": "wordpress maintenance",
+      "status": "ok",
+      "jobs": []
+    },
+    {
+      "keyword": "woocommerce",
+      "status": "ok",
+      "jobs": []
+    },
+    {
+      "keyword": "elementor developer",
+      "status": "ok",
+      "jobs": []
+    },
+    {
+      "keyword": "bricks builder",
+      "status": "ok",
+      "jobs": []
+    },
+    {
+      "keyword": "webflow",
+      "status": "ok",
+      "jobs": []
+    },
+    {
+      "keyword": "webflow developer",
+      "status": "ok",
+      "jobs": []
+    },
+    {
+      "keyword": "webflow website",
+      "status": "ok",
+      "jobs": []
+    },
+    {
+      "keyword": "webflow redesign",
+      "status": "ok",
+      "jobs": []
+    },
+    {
+      "keyword": "figma to webflow",
+      "status": "ok",
+      "jobs": []
+    },
+    {
+      "keyword": "framer",
+      "status": "ok",
+      "jobs": []
+    },
+    {
+      "keyword": "framer developer",
+      "status": "ok",
+      "jobs": []
+    },
+    {
+      "keyword": "shopify developer",
+      "status": "ok",
+      "jobs": []
+    },
+    {
+      "keyword": "nextjs developer",
+      "status": "ok",
+      "jobs": []
+    },
+    {
+      "keyword": "lovable developer",
+      "status": "ok",
+      "jobs": []
+    },
+    {
+      "keyword": "gohighlevel",
+      "status": "ok",
+      "jobs": []
+    },
+    {
+      "keyword": "framer website",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "framer redesign",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "figma to framer",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "AI web development",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "AI web developer",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "vibe coding",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "claude code developer",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "cursor AI developer",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "lovable app",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "bolt developer",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "bolt.new",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "v0 developer",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "v0 vercel",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "replit developer",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "supabase developer",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "AI agent integration website",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "go high level",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "GHL",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "gohighlevel developer",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "gohighlevel website",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "gohighlevel funnel",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "gohighlevel automation",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "gohighlevel CRM",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "squarespace website",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "wix website",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "wix studio",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "bubble developer",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "next.js developer",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "nextjs website",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "react developer",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "figma to nextjs",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "tailwind developer",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "astro developer",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "sanity CMS",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "ecommerce website",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "ecommerce developer",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "shopify website",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "woocommerce developer",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "shopware",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "shopware developer",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "shopware 6",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "headless ecommerce",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "website maintenance",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "website maintenance monthly",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "website support ongoing",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "website management ongoing",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "wordpress support retainer",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "webflow maintenance",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "shopify maintenance",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "ongoing web developer",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "web development retainer",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "conversion rate optimization",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "landing page optimization",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "website audit",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "core web vitals",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "page speed optimization",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "website speed optimization",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    },
+    {
+      "keyword": "technical SEO website",
+      "status": "error",
+      "error": "rate_limit_deferred_next_run",
+      "jobs": []
+    }
+  ],
+  "errors": [
+    "framer website",
+    "framer redesign",
+    "figma to framer",
+    "AI web development",
+    "AI web developer",
+    "vibe coding",
+    "claude code developer",
+    "cursor AI developer",
+    "lovable app",
+    "bolt developer",
+    "bolt.new",
+    "v0 developer",
+    "v0 vercel",
+    "replit developer",
+    "supabase developer",
+    "AI agent integration website",
+    "go high level",
+    "GHL",
+    "gohighlevel developer",
+    "gohighlevel website",
+    "gohighlevel funnel",
+    "gohighlevel automation",
+    "gohighlevel CRM",
+    "squarespace website",
+    "wix website",
+    "wix studio",
+    "bubble developer",
+    "next.js developer",
+    "nextjs website",
+    "react developer",
+    "figma to nextjs",
+    "tailwind developer",
+    "astro developer",
+    "sanity CMS",
+    "ecommerce website",
+    "ecommerce developer",
+    "shopify website",
+    "woocommerce developer",
+    "shopware",
+    "shopware developer",
+    "shopware 6",
+    "headless ecommerce",
+    "website maintenance",
+    "website maintenance monthly",
+    "website support ongoing",
+    "website management ongoing",
+    "wordpress support retainer",
+    "webflow maintenance",
+    "shopify maintenance",
+    "ongoing web developer",
+    "web development retainer",
+    "conversion rate optimization",
+    "landing page optimization",
+    "website audit",
+    "core web vitals",
+    "page speed optimization",
+    "website speed optimization",
+    "technical SEO website"
+  ]
+}
