@@ -1,0 +1,291 @@
+{
+  "runNumber": 5,
+  "keywordsAttempted": 93,
+  "keywordsCompleted": 93,
+  "newJobs": [],
+  "allJobsCount": 61,
+  "top10": [
+    {
+      "keyword": "website development",
+      "group": "CORE WEB DEVELOPMENT",
+      "totalJobs": 10,
+      "jobsLast24h": 10,
+      "avgBudgetFixed": 400.0,
+      "avgRateHourly": 35.25,
+      "medianProposals": 12,
+      "pctVerified": 60.0,
+      "avgClientSpend": 565902.62,
+      "pctHighBudget": 20.0,
+      "opportunityScore": 73,
+      "sampleConfidence": "Low"
+    },
+    {
+      "keyword": "web development",
+      "group": "CORE WEB DEVELOPMENT",
+      "totalJobs": 11,
+      "jobsLast24h": 10,
+      "avgBudgetFixed": 360.0,
+      "avgRateHourly": 41.75,
+      "medianProposals": 20,
+      "pctVerified": 72.7,
+      "avgClientSpend": 44461.75,
+      "pctHighBudget": 18.2,
+      "opportunityScore": 71,
+      "sampleConfidence": "Low"
+    },
+    {
+      "keyword": "responsive web design",
+      "group": "WEB DESIGN",
+      "totalJobs": 11,
+      "jobsLast24h": 10,
+      "avgBudgetFixed": 150.0,
+      "avgRateHourly": 25.9,
+      "medianProposals": 29,
+      "pctVerified": 90.9,
+      "avgClientSpend": 53144.76,
+      "pctHighBudget": 0.0,
+      "opportunityScore": 68,
+      "sampleConfidence": "Low"
+    },
+    {
+      "keyword": "supabase developer",
+      "group": "AI / VIBE CODING",
+      "totalJobs": 11,
+      "jobsLast24h": 10,
+      "avgBudgetFixed": 880.0,
+      "avgRateHourly": 33.67,
+      "medianProposals": 29,
+      "pctVerified": 72.7,
+      "avgClientSpend": 121166.8,
+      "pctHighBudget": 18.2,
+      "opportunityScore": 68,
+      "sampleConfidence": "Low"
+    },
+    {
+      "keyword": "AI agent integration website",
+      "group": "AI / VIBE CODING",
+      "totalJobs": 10,
+      "jobsLast24h": 10,
+      "avgBudgetFixed": 883.33,
+      "avgRateHourly": 22.25,
+      "medianProposals": 28,
+      "pctVerified": 70.0,
+      "avgClientSpend": 91670.13,
+      "pctHighBudget": 10.0,
+      "opportunityScore": 68,
+      "sampleConfidence": "Low"
+    },
+    {
+      "keyword": "website design",
+      "group": "WEB DESIGN",
+      "totalJobs": 10,
+      "jobsLast24h": 8,
+      "avgBudgetFixed": 612.0,
+      "avgRateHourly": 25.5,
+      "medianProposals": 24,
+      "pctVerified": 90.0,
+      "avgClientSpend": 34286.44,
+      "pctHighBudget": 10.0,
+      "opportunityScore": 68,
+      "sampleConfidence": "Low"
+    },
+    {
+      "keyword": "bubble developer",
+      "group": "ADJACENT PLATFORMS",
+      "totalJobs": 7,
+      "jobsLast24h": 7,
+      "avgBudgetFixed": 1310.0,
+      "avgRateHourly": 43.38,
+      "medianProposals": 38,
+      "pctVerified": 71.4,
+      "avgClientSpend": 156372.01,
+      "pctHighBudget": 28.6,
+      "opportunityScore": 69,
+      "sampleConfidence": "Low"
+    },
+    {
+      "keyword": "web design",
+      "group": "WEB DESIGN",
+      "totalJobs": 8,
+      "jobsLast24h": 7,
+      "avgBudgetFixed": 933.33,
+      "avgRateHourly": 26.5,
+      "medianProposals": 24,
+      "pctVerified": 87.5,
+      "avgClientSpend": 42543.9,
+      "pctHighBudget": 12.5,
+      "opportunityScore": 68,
+      "sampleConfidence": "Low"
+    },
+    {
+      "keyword": "woocommerce developer",
+      "group": "ECOMMERCE",
+      "totalJobs": 7,
+      "jobsLast24h": 7,
+      "avgBudgetFixed": 30000.0,
+      "avgRateHourly": 22.9,
+      "medianProposals": 59,
+      "pctVerified": 85.7,
+      "avgClientSpend": 93823.74,
+      "pctHighBudget": 14.3,
+      "opportunityScore": 68,
+      "sampleConfidence": "Low"
+    },
+    {
+      "keyword": "frontend developer",
+      "group": "CORE WEB DEVELOPMENT",
+      "totalJobs": 6,
+      "jobsLast24h": 6,
+      "avgBudgetFixed": null,
+      "avgRateHourly": 23.62,
+      "medianProposals": 20,
+      "pctVerified": 83.3,
+      "avgClientSpend": 33162.71,
+      "pctHighBudget": 0.0,
+      "opportunityScore": 72,
+      "sampleConfidence": "Low"
+    }
+  ],
+  "ranked_groups": [
+    {
+      "group": "CORE WEB DEVELOPMENT",
+      "totalJobs": 24,
+      "jobsLast24h": 22,
+      "opportunityScore": 71,
+      "sampleConfidence": "Medium"
+    },
+    {
+      "group": "WEB DESIGN",
+      "totalJobs": 11,
+      "jobsLast24h": 7,
+      "opportunityScore": 69,
+      "sampleConfidence": "Low"
+    },
+    {
+      "group": "AI / VIBE CODING",
+      "totalJobs": 9,
+      "jobsLast24h": 7,
+      "opportunityScore": 69,
+      "sampleConfidence": "Low"
+    },
+    {
+      "group": "MODERN STACK",
+      "totalJobs": 4,
+      "jobsLast24h": 4,
+      "opportunityScore": 70,
+      "sampleConfidence": "Very Low"
+    },
+    {
+      "group": "ECOMMERCE",
+      "totalJobs": 5,
+      "jobsLast24h": 1,
+      "opportunityScore": 72,
+      "sampleConfidence": "Low"
+    }
+  ],
+  "platform_stats": {
+    "WordPress": {
+      "platform": "WordPress",
+      "jobs": 16,
+      "avgBudgetFixed": 5608.33,
+      "avgRateHourly": 22.83,
+      "medianProposals": 32,
+      "opportunityScore": 61,
+      "sampleConfidence": "Medium"
+    },
+    "Webflow": {
+      "platform": "Webflow",
+      "jobs": 1,
+      "avgBudgetFixed": null,
+      "avgRateHourly": null,
+      "medianProposals": null,
+      "opportunityScore": 65,
+      "sampleConfidence": "Very Low"
+    },
+    "Framer": {
+      "platform": "Framer",
+      "jobs": 4,
+      "avgBudgetFixed": 400.0,
+      "avgRateHourly": 20.5,
+      "medianProposals": 22,
+      "opportunityScore": 62,
+      "sampleConfidence": "Very Low"
+    },
+    "GoHighLevel": {
+      "platform": "GoHighLevel",
+      "jobs": 12,
+      "avgBudgetFixed": 7676.25,
+      "avgRateHourly": 22.06,
+      "medianProposals": 11,
+      "opportunityScore": 72,
+      "sampleConfidence": "Low"
+    },
+    "Shopify": {
+      "platform": "Shopify",
+      "jobs": 7,
+      "avgBudgetFixed": 2092.5,
+      "avgRateHourly": 75.0,
+      "medianProposals": 9,
+      "opportunityScore": 70,
+      "sampleConfidence": "Low"
+    },
+    "WooCommerce": {
+      "platform": "WooCommerce",
+      "jobs": 8,
+      "avgBudgetFixed": 15125.0,
+      "avgRateHourly": 22.9,
+      "medianProposals": 58,
+      "opportunityScore": 69,
+      "sampleConfidence": "Low"
+    },
+    "Shopware": {
+      "platform": "Shopware",
+      "jobs": 2,
+      "avgBudgetFixed": null,
+      "avgRateHourly": 15.5,
+      "medianProposals": 95,
+      "opportunityScore": 72,
+      "sampleConfidence": "Very Low"
+    },
+    "Lovable": {
+      "platform": "Lovable",
+      "jobs": 2,
+      "avgBudgetFixed": null,
+      "avgRateHourly": null,
+      "medianProposals": 39,
+      "opportunityScore": 55,
+      "sampleConfidence": "Very Low"
+    },
+    "Bolt": {
+      "platform": "Bolt",
+      "jobs": 3,
+      "avgBudgetFixed": null,
+      "avgRateHourly": 20.5,
+      "medianProposals": 26,
+      "opportunityScore": 64,
+      "sampleConfidence": "Very Low"
+    },
+    "v0": {
+      "platform": "v0",
+      "jobs": 3,
+      "avgBudgetFixed": null,
+      "avgRateHourly": 20.5,
+      "medianProposals": 26,
+      "opportunityScore": 64,
+      "sampleConfidence": "Very Low"
+    },
+    "Next.js": {
+      "platform": "Next.js",
+      "jobs": 7,
+      "avgBudgetFixed": 235.0,
+      "avgRateHourly": 18.62,
+      "medianProposals": 11,
+      "opportunityScore": 69,
+      "sampleConfidence": "Low"
+    }
+  },
+  "errors": [],
+  "primary": "website development",
+  "secondary": "web development",
+  "best_plat": "WordPress"
+}
