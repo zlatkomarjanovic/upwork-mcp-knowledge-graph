@@ -1,0 +1,79 @@
+{
+  "CORE WEB DEVELOPMENT": {
+    "group": "CORE WEB DEVELOPMENT",
+    "totalJobs": 59,
+    "jobsLast24h": 46,
+    "avgOpportunityScore": 19,
+    "keywordCount": 6
+  },
+  "WEB DESIGN": {
+    "group": "WEB DESIGN",
+    "totalJobs": 57,
+    "jobsLast24h": 47,
+    "avgOpportunityScore": 19.5,
+    "keywordCount": 6
+  },
+  "WORDPRESS": {
+    "group": "WORDPRESS",
+    "totalJobs": 55,
+    "jobsLast24h": 50,
+    "avgOpportunityScore": 17.8,
+    "keywordCount": 12
+  },
+  "WEBFLOW / FRAMER": {
+    "group": "WEBFLOW / FRAMER",
+    "totalJobs": 10,
+    "jobsLast24h": 8,
+    "avgOpportunityScore": 16.8,
+    "keywordCount": 10
+  },
+  "AI / VIBE CODING": {
+    "group": "AI / VIBE CODING",
+    "totalJobs": 27,
+    "jobsLast24h": 21,
+    "avgOpportunityScore": 17.3,
+    "keywordCount": 14
+  },
+  "GOHIGHLEVEL": {
+    "group": "GOHIGHLEVEL",
+    "totalJobs": 26,
+    "jobsLast24h": 19,
+    "avgOpportunityScore": 17,
+    "keywordCount": 8
+  },
+  "ADJACENT PLATFORMS": {
+    "group": "ADJACENT PLATFORMS",
+    "totalJobs": 8,
+    "jobsLast24h": 4,
+    "avgOpportunityScore": 17.5,
+    "keywordCount": 4
+  },
+  "MODERN STACK": {
+    "group": "MODERN STACK",
+    "totalJobs": 27,
+    "jobsLast24h": 20,
+    "avgOpportunityScore": 17,
+    "keywordCount": 8
+  },
+  "ECOMMERCE": {
+    "group": "ECOMMERCE",
+    "totalJobs": 35,
+    "jobsLast24h": 25,
+    "avgOpportunityScore": 19.4,
+    "keywordCount": 9
+  },
+  "MAINTENANCE / RETAINERS": {
+    "group": "MAINTENANCE / RETAINERS",
+    "totalJobs": 25,
+    "jobsLast24h": 15,
+    "avgOpportunityScore": 15.2,
+    "keywordCount": 9
+  },
+  "CONVERSION / PERFORMANCE": {
+    "group": "CONVERSION / PERFORMANCE",
+    "totalJobs": 26,
+    "jobsLast24h": 19,
+    "avgOpportunityScore": 17,
+    "keywordCount": 7
+  }
+}
