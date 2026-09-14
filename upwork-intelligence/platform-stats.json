@@ -1,83 +1,83 @@
 {
   "WordPress": {
     "platform": "WordPress",
-    "jobs": 52,
+    "jobs": 51,
     "avgBudgetFixed": 399.42,
     "avgRateHourly": 22.18,
-    "medianProposals": 13,
-    "opportunityScore": 26,
+    "medianProposals": 14,
+    "opportunityScore": 25,
     "sampleConfidence": "High"
   },
   "Webflow": {
     "platform": "Webflow",
-    "jobs": 30,
-    "avgBudgetFixed": 375.0,
+    "jobs": 29,
+    "avgBudgetFixed": 401.36,
     "avgRateHourly": 26.5,
-    "medianProposals": 11,
-    "opportunityScore": 29,
+    "medianProposals": 10,
+    "opportunityScore": 28,
     "sampleConfidence": "Medium"
   },
   "Framer": {
     "platform": "Framer",
-    "jobs": 20,
-    "avgBudgetFixed": 275.0,
+    "jobs": 19,
+    "avgBudgetFixed": 313.0,
     "avgRateHourly": 24.14,
-    "medianProposals": 17,
+    "medianProposals": 19,
     "opportunityScore": 30,
     "sampleConfidence": "Medium"
   },
   "GoHighLevel": {
     "platform": "GoHighLevel",
-    "jobs": 39,
-    "avgBudgetFixed": 173.89,
+    "jobs": 37,
+    "avgBudgetFixed": 179.12,
     "avgRateHourly": 19.27,
     "medianProposals": 9,
-    "opportunityScore": 27,
+    "opportunityScore": 26,
     "sampleConfidence": "Medium"
   },
   "Shopify": {
     "platform": "Shopify",
-    "jobs": 36,
-    "avgBudgetFixed": 362.5,
-    "avgRateHourly": 18.36,
-    "medianProposals": 11,
+    "jobs": 33,
+    "avgBudgetFixed": 381.0,
+    "avgRateHourly": 17.67,
+    "medianProposals": 10,
     "opportunityScore": 24,
     "sampleConfidence": "Medium"
   },
   "WooCommerce": {
     "platform": "WooCommerce",
-    "jobs": 17,
+    "jobs": 16,
     "avgBudgetFixed": 187.5,
     "avgRateHourly": 21.64,
-    "medianProposals": 14,
-    "opportunityScore": 28,
+    "medianProposals": 15,
+    "opportunityScore": 27,
     "sampleConfidence": "Medium"
   },
   "Shopware": {
     "platform": "Shopware",
-    "jobs": 16,
-    "avgBudgetFixed": 418.33,
+    "jobs": 14,
+    "avgBudgetFixed": 460.0,
     "avgRateHourly": 29.38,
-    "medianProposals": 15,
-    "opportunityScore": 30,
-    "sampleConfidence": "Medium"
+    "medianProposals": 16,
+    "opportunityScore": 29,
+    "sampleConfidence": "Low"
   },
   "Lovable": {
     "platform": "Lovable",
-    "jobs": 7,
-    "avgBudgetFixed": 34.0,
+    "jobs": 6,
+    "avgBudgetFixed": 21.25,
     "avgRateHourly": 22.5,
-    "medianProposals": 10,
+    "medianProposals": 9,
     "opportunityScore": 33,
     "sampleConfidence": "Low"
   },
   "Bolt": {
     "platform": "Bolt",
-    "jobs": 9,
-    "avgBudgetFixed": 66.25,
+    "jobs": 8,
+    "avgBudgetFixed": 60.0,
     "avgRateHourly": 28.67,
-    "medianProposals": 17,
-    "opportunityScore": 31,
+    "medianProposals": 18,
+    "opportunityScore": 30,
     "sampleConfidence": "Low"
   },
   "v0": {
@@ -91,10 +91,10 @@
   },
   "Next.js": {
     "platform": "Next.js",
-    "jobs": 27,
-    "avgBudgetFixed": 161.36,
+    "jobs": 26,
+    "avgBudgetFixed": 169.0,
     "avgRateHourly": 22.22,
-    "medianProposals": 12,
+    "medianProposals": 11,
     "opportunityScore": 23,
     "sampleConfidence": "Medium"
   }
