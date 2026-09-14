@@ -1,0 +1,183 @@
+{
+  "CORE WEB DEVELOPMENT": {
+    "totalJobs": 46,
+    "jobsLast24h": 46,
+    "scores": [
+      89,
+      83,
+      89,
+      51,
+      66,
+      69
+    ],
+    "keywords": 6,
+    "avgOpportunityScore": 75
+  },
+  "WEB DESIGN": {
+    "totalJobs": 34,
+    "jobsLast24h": 34,
+    "scores": [
+      75,
+      75,
+      49,
+      31,
+      83,
+      49
+    ],
+    "keywords": 6,
+    "avgOpportunityScore": 60
+  },
+  "WORDPRESS": {
+    "totalJobs": 50,
+    "jobsLast24h": 50,
+    "scores": [
+      83,
+      83,
+      83,
+      83,
+      13,
+      66,
+      66,
+      66,
+      66,
+      72,
+      64,
+      66
+    ],
+    "keywords": 12,
+    "avgOpportunityScore": 68
+  },
+  "WEBFLOW / FRAMER": {
+    "totalJobs": 16,
+    "jobsLast24h": 16,
+    "scores": [
+      66,
+      66,
+      66,
+      13,
+      18,
+      10,
+      10,
+      10,
+      10,
+      66
+    ],
+    "keywords": 10,
+    "avgOpportunityScore": 34
+  },
+  "AI / VIBE CODING": {
+    "totalJobs": 29,
+    "jobsLast24h": 29,
+    "scores": [
+      89,
+      89,
+      66,
+      28,
+      66,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "keywords": 14,
+    "avgOpportunityScore": 31
+  },
+  "GOHIGHLEVEL": {
+    "totalJobs": 0,
+    "jobsLast24h": 0,
+    "scores": [
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "keywords": 8,
+    "avgOpportunityScore": 10
+  },
+  "ADJACENT PLATFORMS": {
+    "totalJobs": 0,
+    "jobsLast24h": 0,
+    "scores": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "keywords": 4,
+    "avgOpportunityScore": 10
+  },
+  "MODERN STACK": {
+    "totalJobs": 0,
+    "jobsLast24h": 0,
+    "scores": [
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "keywords": 8,
+    "avgOpportunityScore": 10
+  },
+  "ECOMMERCE": {
+    "totalJobs": 0,
+    "jobsLast24h": 0,
+    "scores": [
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "keywords": 9,
+    "avgOpportunityScore": 10
+  },
+  "MAINTENANCE / RETAINERS": {
+    "totalJobs": 0,
+    "jobsLast24h": 0,
+    "scores": [
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "keywords": 9,
+    "avgOpportunityScore": 10
+  },
+  "CONVERSION / PERFORMANCE": {
+    "totalJobs": 0,
+    "jobsLast24h": 0,
+    "scores": [
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "keywords": 7,
+    "avgOpportunityScore": 10
+  }
+}

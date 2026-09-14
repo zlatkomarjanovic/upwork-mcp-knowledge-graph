@@ -1,0 +1,101 @@
+{
+  "WordPress": {
+    "jobs": 11,
+    "jobsLast24h": 11,
+    "avgBudgetFixed": 1016.6666666666666,
+    "avgRateHourly": 38.333333333333336,
+    "medianProposals": 18.5,
+    "sampleConfidence": "Low",
+    "opportunityScore": 85
+  },
+  "Webflow": {
+    "jobs": 3,
+    "jobsLast24h": 3,
+    "avgBudgetFixed": null,
+    "avgRateHourly": 45,
+    "medianProposals": 29,
+    "sampleConfidence": "Very Low",
+    "opportunityScore": 66
+  },
+  "Framer": {
+    "jobs": 5,
+    "jobsLast24h": 5,
+    "avgBudgetFixed": 275,
+    "avgRateHourly": null,
+    "medianProposals": 8.5,
+    "sampleConfidence": "Low",
+    "opportunityScore": 66
+  },
+  "GoHighLevel": {
+    "jobs": 0,
+    "jobsLast24h": 0,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": null,
+    "sampleConfidence": "Very Low",
+    "opportunityScore": 10
+  },
+  "Shopify": {
+    "jobs": 0,
+    "jobsLast24h": 0,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": null,
+    "sampleConfidence": "Very Low",
+    "opportunityScore": 10
+  },
+  "WooCommerce": {
+    "jobs": 3,
+    "jobsLast24h": 3,
+    "avgBudgetFixed": 2500,
+    "avgRateHourly": 55,
+    "medianProposals": 27,
+    "sampleConfidence": "Very Low",
+    "opportunityScore": 72
+  },
+  "Shopware": {
+    "jobs": 0,
+    "jobsLast24h": 0,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": null,
+    "sampleConfidence": "Very Low",
+    "opportunityScore": 10
+  },
+  "Lovable": {
+    "jobs": 0,
+    "jobsLast24h": 0,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": null,
+    "sampleConfidence": "Very Low",
+    "opportunityScore": 10
+  },
+  "Bolt": {
+    "jobs": 0,
+    "jobsLast24h": 0,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": null,
+    "sampleConfidence": "Very Low",
+    "opportunityScore": 10
+  },
+  "v0": {
+    "jobs": 0,
+    "jobsLast24h": 0,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": null,
+    "sampleConfidence": "Very Low",
+    "opportunityScore": 10
+  },
+  "Next.js": {
+    "jobs": 0,
+    "jobsLast24h": 0,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": null,
+    "sampleConfidence": "Very Low",
+    "opportunityScore": 10
+  }
+}
