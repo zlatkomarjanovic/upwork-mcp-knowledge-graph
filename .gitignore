@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+upwork-intelligence/inbox/
+upwork-intelligence/capture.jsonl
+upwork-intelligence/pending.json
