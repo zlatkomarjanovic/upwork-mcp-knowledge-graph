@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+# Placeholder: Upwork searches run via MCP (CallDynamicTool) in the agent loop.
+# This file documents keyword order for maintenance only.
+set -euo pipefail
+KEYWORDS=(
+"claude code developer" "cursor AI developer" "lovable developer" "lovable app"
+"bolt developer" "bolt.new" "v0 developer" "v0 vercel" "replit developer" "supabase developer"
+"AI agent integration website" "gohighlevel" "go high level" "GHL" "gohighlevel developer"
+"gohighlevel website" "gohighlevel funnel" "gohighlevel automation" "gohighlevel CRM"
+"squarespace website" "wix website" "wix studio" "bubble developer"
+"nextjs developer" "next.js developer" "nextjs website" "react developer" "figma to nextjs"
+"tailwind developer" "astro developer" "sanity CMS"
+"ecommerce website" "ecommerce developer" "shopify developer" "shopify website"
+"woocommerce developer" "shopware" "shopware developer" "shopware 6" "headless ecommerce"
+"website maintenance" "website maintenance monthly" "website support ongoing"
+"website management ongoing" "wordpress support retainer" "webflow maintenance"
+"shopify maintenance" "ongoing web developer" "web development retainer"
+"conversion rate optimization" "landing page optimization" "website audit" "core web vitals"
+"page speed optimization" "website speed optimization" "technical SEO website"
+)
+echo "${#KEYWORDS[@]} keywords listed for agent MCP pass"

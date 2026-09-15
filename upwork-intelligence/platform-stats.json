@@ -1,0 +1,90 @@
+{
+  "WordPress": {
+    "jobs": 13,
+    "avgBudgetFixed": 2278.33,
+    "avgRateHourly": 38.62,
+    "medianProposals": 17,
+    "opportunityScore": 36,
+    "sampleConfidence": "Low"
+  },
+  "Webflow": {
+    "jobs": 10,
+    "avgBudgetFixed": 2724.0,
+    "avgRateHourly": 41.5,
+    "medianProposals": 18,
+    "opportunityScore": 36,
+    "sampleConfidence": "Low"
+  },
+  "Framer": {
+    "jobs": 1,
+    "avgBudgetFixed": null,
+    "avgRateHourly": 32.5,
+    "medianProposals": 5,
+    "opportunityScore": 22,
+    "sampleConfidence": "Very Low"
+  },
+  "GoHighLevel": {
+    "jobs": 1,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": null,
+    "opportunityScore": 20,
+    "sampleConfidence": "Very Low"
+  },
+  "Shopify": {
+    "jobs": 2,
+    "avgBudgetFixed": null,
+    "avgRateHourly": 19.5,
+    "medianProposals": 17,
+    "opportunityScore": 26,
+    "sampleConfidence": "Very Low"
+  },
+  "WooCommerce": {
+    "jobs": 3,
+    "avgBudgetFixed": 1765.0,
+    "avgRateHourly": null,
+    "medianProposals": 33,
+    "opportunityScore": 34,
+    "sampleConfidence": "Very Low"
+  },
+  "Shopware": {
+    "jobs": 0,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": null,
+    "opportunityScore": 1,
+    "sampleConfidence": "Very Low"
+  },
+  "Lovable": {
+    "jobs": 0,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": null,
+    "opportunityScore": 1,
+    "sampleConfidence": "Very Low"
+  },
+  "Bolt": {
+    "jobs": 0,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": null,
+    "opportunityScore": 1,
+    "sampleConfidence": "Very Low"
+  },
+  "v0": {
+    "jobs": 0,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": null,
+    "opportunityScore": 1,
+    "sampleConfidence": "Very Low"
+  },
+  "Next.js": {
+    "jobs": 0,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": null,
+    "opportunityScore": 1,
+    "sampleConfidence": "Very Low"
+  }
+}
