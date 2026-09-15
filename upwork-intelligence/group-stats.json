@@ -1,0 +1,104 @@
+{
+  "GOHIGHLEVEL": {
+    "totalJobs": 1,
+    "jobsLast24h": 1,
+    "opportunityScore": 75,
+    "sampleConfidence": "Very Low",
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": 8,
+    "pctVerified": 100.0,
+    "avgClientSpend": 5573.44,
+    "pctHighBudget": 0.0
+  },
+  "WEBFLOW / FRAMER": {
+    "totalJobs": 0,
+    "jobsLast24h": 0,
+    "opportunityScore": 0,
+    "sampleConfidence": "Very Low"
+  },
+  "CONVERSION / PERFORMANCE": {
+    "totalJobs": 1,
+    "jobsLast24h": 1,
+    "opportunityScore": 87,
+    "sampleConfidence": "Very Low",
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": 12,
+    "pctVerified": 100.0,
+    "avgClientSpend": 271548.28,
+    "pctHighBudget": 0.0
+  },
+  "WORDPRESS": {
+    "totalJobs": 0,
+    "jobsLast24h": 0,
+    "opportunityScore": 0,
+    "sampleConfidence": "Very Low"
+  },
+  "ECOMMERCE": {
+    "totalJobs": 0,
+    "jobsLast24h": 0,
+    "opportunityScore": 0,
+    "sampleConfidence": "Very Low"
+  },
+  "MAINTENANCE / RETAINERS": {
+    "totalJobs": 0,
+    "jobsLast24h": 0,
+    "opportunityScore": 0,
+    "sampleConfidence": "Very Low"
+  },
+  "WEB DESIGN": {
+    "totalJobs": 2,
+    "jobsLast24h": 2,
+    "opportunityScore": 62,
+    "sampleConfidence": "Very Low",
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": 23,
+    "pctVerified": 100.0,
+    "avgClientSpend": 16349.38,
+    "pctHighBudget": 0.0
+  },
+  "ADJACENT PLATFORMS": {
+    "totalJobs": 0,
+    "jobsLast24h": 0,
+    "opportunityScore": 0,
+    "sampleConfidence": "Very Low"
+  },
+  "AI / VIBE CODING": {
+    "totalJobs": 1,
+    "jobsLast24h": 1,
+    "opportunityScore": 62,
+    "sampleConfidence": "Very Low",
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": 41,
+    "pctVerified": 100.0,
+    "avgClientSpend": null,
+    "pctHighBudget": 0.0
+  },
+  "CORE WEB DEVELOPMENT": {
+    "totalJobs": 4,
+    "jobsLast24h": 4,
+    "opportunityScore": 79,
+    "sampleConfidence": "Very Low",
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": 35,
+    "pctVerified": 100.0,
+    "avgClientSpend": 1017.5,
+    "pctHighBudget": 0.0
+  },
+  "MODERN STACK": {
+    "totalJobs": 2,
+    "jobsLast24h": 2,
+    "opportunityScore": 87,
+    "sampleConfidence": "Very Low",
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": 26,
+    "pctVerified": 100.0,
+    "avgClientSpend": 30309.17,
+    "pctHighBudget": 0.0
+  }
+}
