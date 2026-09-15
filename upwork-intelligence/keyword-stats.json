@@ -92,7 +92,7 @@
     "pctVerified": 100.0,
     "avgClientSpend": null,
     "pctHighBudget": 0.0,
-    "opportunityScore": 14,
+    "opportunityScore": 13,
     "sampleConfidence": "Very Low"
   },
   "elementor developer": {
@@ -104,7 +104,7 @@
     "pctVerified": 100.0,
     "avgClientSpend": null,
     "pctHighBudget": 0.0,
-    "opportunityScore": 14,
+    "opportunityScore": 13,
     "sampleConfidence": "Very Low"
   },
   "webflow": {
@@ -116,7 +116,7 @@
     "pctVerified": 100.0,
     "avgClientSpend": null,
     "pctHighBudget": 0.0,
-    "opportunityScore": 14,
+    "opportunityScore": 13,
     "sampleConfidence": "Very Low"
   },
   "website maintenance": {
@@ -128,7 +128,7 @@
     "pctVerified": 100.0,
     "avgClientSpend": null,
     "pctHighBudget": 0.0,
-    "opportunityScore": 14,
+    "opportunityScore": 13,
     "sampleConfidence": "Very Low"
   },
   "lovable developer": {
@@ -153,18 +153,6 @@
     "avgClientSpend": 2806.07,
     "pctHighBudget": 0.0,
     "opportunityScore": 14,
-    "sampleConfidence": "Very Low"
-  },
-  "framer": {
-    "totalJobs": 1,
-    "jobsLast24h": 1,
-    "avgBudgetFixed": null,
-    "avgRateHourly": 15.0,
-    "medianProposals": 4,
-    "pctVerified": 0.0,
-    "avgClientSpend": null,
-    "pctHighBudget": 0.0,
-    "opportunityScore": 7,
     "sampleConfidence": "Very Low"
   },
   "gohighlevel": {
@@ -201,6 +189,18 @@
     "avgClientSpend": null,
     "pctHighBudget": 100.0,
     "opportunityScore": 28,
+    "sampleConfidence": "Very Low"
+  },
+  "framer": {
+    "totalJobs": 1,
+    "jobsLast24h": 1,
+    "avgBudgetFixed": null,
+    "avgRateHourly": 15.0,
+    "medianProposals": 4,
+    "pctVerified": 0.0,
+    "avgClientSpend": null,
+    "pctHighBudget": 0.0,
+    "opportunityScore": 7,
     "sampleConfidence": "Very Low"
   }
 }

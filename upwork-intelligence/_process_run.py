@@ -6,8 +6,15 @@ from pathlib import Path
 
 BASE = Path(__file__).parent
 RESULTS_PATH = BASE / "search-results-raw.json"
-RUN_AT = datetime(2026, 9, 15, 6, 35, 55, tzinfo=timezone.utc)
-WINDOW_HOURS = 2  # first run
+RUN_AT = datetime.now(timezone.utc)
+_state_pre = BASE / "state.json"
+_prev_run = 0
+if _state_pre.exists():
+    try:
+        _prev_run = json.loads(_state_pre.read_text()).get("runNumber", 0)
+    except json.JSONDecodeError:
+        pass
+WINDOW_HOURS = 2 if _prev_run == 0 else 1
 CUTOFF = RUN_AT - timedelta(hours=WINDOW_HOURS)
 
 KEYWORD_GROUPS = [
@@ -262,6 +269,21 @@ def main():
                 jobs_map[u] = rec
 
     all_jobs = list(jobs_map.values())
+    jobs_path = BASE / "jobs.jsonl"
+    if jobs_path.exists():
+        merged = {j["url"]: j for j in all_jobs}
+        for line in jobs_path.read_text().splitlines():
+            if not line.strip():
+                continue
+            j = json.loads(line)
+            u = j["url"]
+            if u in merged:
+                for mk in j.get("matchedKeyword", []):
+                    if mk not in merged[u]["matchedKeyword"]:
+                        merged[u]["matchedKeyword"].append(mk)
+            else:
+                merged[u] = j
+        all_jobs = list(merged.values())
     run_number = 1
     state_path = BASE / "state.json"
     known = set()
@@ -391,7 +413,10 @@ def main():
         "",
         "## Important Changes",
         "",
-        "Run 1 baseline established. Retry deferred keyword searches next hour.",
+        (
+            f"Run {run_number}: {keywords_completed}/{keywords_attempted} keyword searches persisted. "
+            + ("Full coverage." if keywords_completed >= keywords_attempted else "Retry failed/deferred keywords next hour.")
+        ),
         "",
     ]
     (BASE / "current-summary.md").write_text("\n".join(summary_lines) + "\n")

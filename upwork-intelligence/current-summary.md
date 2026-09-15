@@ -1,7 +1,7 @@
 # Upwork Market Intelligence
 
-Last updated: 2026-09-15T06:35:55+00:00
-Run: 3
+Last updated: 2026-09-15T06:45:58.328050+00:00
+Run: 2
 Total jobs tracked: 11
 Keywords attempted: 93
 Keywords completed: 20
@@ -11,26 +11,26 @@ Keywords completed: 20
 - **shopify developer**: jobs24h=1, total=1, fixed=$None, hourly=$70.0/hr, median props=2, score=28, Very Low
 - **conversion rate optimization**: jobs24h=1, total=1, fixed=$None, hourly=$70.0/hr, median props=2, score=28, Very Low
 - **landing page design**: jobs24h=1, total=1, fixed=$None, hourly=$47.5/hr, median props=24, score=15, Very Low
-- **wordpress maintenance**: jobs24h=1, total=1, fixed=$30.0, hourly=$None/hr, median props=2, score=14, Very Low
-- **elementor developer**: jobs24h=1, total=1, fixed=$30.0, hourly=$None/hr, median props=2, score=14, Very Low
-- **webflow**: jobs24h=1, total=1, fixed=$30.0, hourly=$None/hr, median props=2, score=14, Very Low
-- **website maintenance**: jobs24h=1, total=1, fixed=$30.0, hourly=$None/hr, median props=2, score=14, Very Low
 - **wordpress developer**: jobs24h=1, total=1, fixed=$200.0, hourly=$None/hr, median props=15, score=14, Very Low
 - **web development**: jobs24h=8, total=8, fixed=$242.0, hourly=$58.75/hr, median props=15, score=13, Low
 - **web developer**: jobs24h=7, total=7, fixed=$252.5, hourly=$58.75/hr, median props=15, score=13, Low
+- **website development**: jobs24h=6, total=6, fixed=$311.67, hourly=$58.75/hr, median props=24, score=13, Low
+- **web design**: jobs24h=2, total=2, fixed=$5.0, hourly=$47.5/hr, median props=24, score=13, Very Low
+- **wordpress maintenance**: jobs24h=1, total=1, fixed=$30.0, hourly=$None/hr, median props=2, score=13, Very Low
+- **elementor developer**: jobs24h=1, total=1, fixed=$30.0, hourly=$None/hr, median props=2, score=13, Very Low
 
 ## Strongest Groups
 
 - **ECOMMERCE**: jobs24h=1, total=1, score=28, Very Low
 - **CONVERSION / PERFORMANCE**: jobs24h=1, total=1, score=28, Very Low
-- **MAINTENANCE / RETAINERS**: jobs24h=1, total=1, score=14, Very Low
 - **CORE WEB DEVELOPMENT**: jobs24h=8, total=8, score=13, Low
 - **WEB DESIGN**: jobs24h=2, total=2, score=13, Very Low
+- **MAINTENANCE / RETAINERS**: jobs24h=1, total=1, score=13, Very Low
 
 ## Platform Ranking
 
 - **Shopify**: jobs=1, score=28, Very Low
-- **Webflow**: jobs=1, score=14, Very Low
+- **Webflow**: jobs=1, score=13, Very Low
 - **Lovable**: jobs=1, score=12, Very Low
 - **WordPress**: jobs=3, score=11, Very Low
 - **Framer**: jobs=1, score=7, Very Low
