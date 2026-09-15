@@ -1,0 +1,786 @@
+[
+  {
+    "keyword": "web development",
+    "group": "CORE WEB DEVELOPMENT",
+    "response": {
+      "status": "ok",
+      "jobs": [
+        {
+          "budget": "250.00",
+          "client": {
+            "country": "United States",
+            "rating": 4.99,
+            "total_posted_jobs": 111,
+            "total_reviews": 82,
+            "total_spent": "$13,322.97",
+            "verification_status": "VERIFIED"
+          },
+          "published_date": "2026-09-15T22:43:21.815Z",
+          "job_type": "fixed",
+          "proposals_tier": "20 to 50",
+          "duration": "Less than 1 month",
+          "experience_level": "intermediate",
+          "skills": [
+            "WordPress Website",
+            "Elementor",
+            "WordPress Website Design"
+          ],
+          "title": "New website on elementor",
+          "url": "https://www.upwork.com/jobs/~022099992318204361281"
+        },
+        {
+          "client": {
+            "country": "United States",
+            "total_posted_jobs": 1
+          },
+          "published_date": "2026-09-15T22:41:08.060Z",
+          "job_type": "hourly",
+          "proposals_tier": "5 to 10",
+          "duration": "1 to 3 months",
+          "experience_level": "intermediate",
+          "skills": [
+            "PHP",
+            "Web Design",
+            "HTML5",
+            "Web Development"
+          ],
+          "title": "Luxurious Online Store Development",
+          "url": "https://www.upwork.com/jobs/~022099991603531841303"
+        },
+        {
+          "budget": "2,500.00",
+          "client": {
+            "country": "United States",
+            "rating": 4.96,
+            "total_posted_jobs": 80,
+            "total_reviews": 29,
+            "total_spent": "$73,068.25",
+            "verification_status": "VERIFIED"
+          },
+          "published_date": "2026-09-15T22:40:27.915Z",
+          "job_type": "fixed",
+          "proposals_tier": "5 to 10",
+          "duration": "1 to 3 months",
+          "experience_level": "intermediate",
+          "skills": [
+            "Custom Web Design",
+            "WordPress",
+            "Web Development",
+            "Web Design"
+          ],
+          "title": "Rebuild wordpress site",
+          "url": "https://www.upwork.com/jobs/~022099946147883876119"
+        },
+        {
+          "budget": "5.00",
+          "client": {
+            "country": "NGA",
+            "rating": 5,
+            "total_posted_jobs": 43,
+            "total_reviews": 47,
+            "total_spent": "$441.05",
+            "verification_status": "VERIFIED"
+          },
+          "published_date": "2026-09-15T22:34:03.085Z",
+          "job_type": "fixed",
+          "proposals_tier": "5 to 10",
+          "duration": "Less than 1 month",
+          "experience_level": "intermediate",
+          "skills": [
+            "JavaScript",
+            "API Development",
+            "Software Debugging",
+            "Node.js",
+            "Full-Stack Development",
+            "Automation"
+          ],
+          "title": "Expert Needed to Audit & Fix Existing React + Node.js Website",
+          "url": "https://www.upwork.com/jobs/~022099989885134840543"
+        },
+        {
+          "budget": "100.00",
+          "client": {
+            "country": "Australia"
+          },
+          "published_date": "2026-09-15T22:32:22.163Z",
+          "job_type": "fixed",
+          "proposals_tier": "Fewer than 5",
+          "duration": "1 to 3 months",
+          "experience_level": "expert",
+          "skills": [
+            "WordPress",
+            "Web Development",
+            "Web Design",
+            "PHP",
+            "Shopify Website Design"
+          ],
+          "title": "Web Developer for Press On Nails Website",
+          "url": "https://www.upwork.com/jobs/~022099989368121184391"
+        },
+        {
+          "budget": "200.00",
+          "client": {
+            "country": "United States",
+            "total_posted_jobs": 1,
+            "verification_status": "VERIFIED"
+          },
+          "published_date": "2026-09-15T22:27:52.232Z",
+          "job_type": "fixed",
+          "proposals_tier": "15 to 20",
+          "duration": "1 to 3 months",
+          "experience_level": "expert",
+          "skills": [
+            "Logo Design",
+            "Graphic Design",
+            "Web Design",
+            "Adobe Photoshop",
+            "Webflow",
+            "Shopify",
+            "Web Development",
+            "Website",
+            "Visual Communication"
+          ],
+          "title": "Webflow Developer for Coffee Brand Website",
+          "url": "https://www.upwork.com/jobs/~022099943292760608903"
+        },
+        {
+          "budget": "30.00",
+          "client": {
+            "country": "United States",
+            "total_posted_jobs": 1,
+            "verification_status": "VERIFIED"
+          },
+          "published_date": "2026-09-15T22:26:05.086Z",
+          "job_type": "fixed",
+          "proposals_tier": "Fewer than 5",
+          "duration": "Less than 1 month",
+          "experience_level": "intermediate",
+          "skills": [
+            "Web Services Development",
+            "CMS Development Skills",
+            "Web Application Development",
+            "Full-Stack Development"
+          ],
+          "title": "Web Developer for paid interview on how you handle QA and user testing (Silicon Valley AI startup)",
+          "url": "https://www.upwork.com/jobs/~022099987794207187679"
+        },
+        {
+          "budget": "20.00\u201340.00/hr",
+          "client": {
+            "country": "United States"
+          },
+          "published_date": "2026-09-15T22:22:14.272Z",
+          "job_type": "hourly",
+          "proposals_tier": "Fewer than 5",
+          "duration": "Less than 1 month",
+          "experience_level": "intermediate",
+          "skills": [
+            "macOS",
+            "Mac OS App Development",
+            "Desktop Application",
+            "Application Installer",
+            "Standalone Application"
+          ],
+          "title": "Re-create Quicken 2007 to run in 64 bit MAC OS 13",
+          "url": "https://www.upwork.com/jobs/~022099986910200320135"
+        },
+        {
+          "client": {
+            "country": "United States"
+          },
+          "published_date": "2026-09-15T22:21:33.728Z",
+          "job_type": "hourly",
+          "proposals_tier": "10 to 15",
+          "duration": "Less than 1 month",
+          "experience_level": "intermediate",
+          "skills": [
+            "Figma",
+            "Web Design",
+            "UX & UI",
+            "Webflow",
+            "UX & UI Design"
+          ],
+          "title": "Pachena Web App Design",
+          "url": "https://www.upwork.com/jobs/~022099941326168903815"
+        }
+      ]
+    }
+  },
+  {
+    "keyword": "website development",
+    "group": "CORE WEB DEVELOPMENT",
+    "response": {
+      "status": "ok",
+      "jobs": [
+        {
+          "client": {
+            "country": "United States",
+            "total_posted_jobs": 1
+          },
+          "published_date": "2026-09-15T22:41:08.060Z",
+          "job_type": "hourly",
+          "proposals_tier": "5 to 10",
+          "skills": [
+            "PHP",
+            "Web Design",
+            "HTML5",
+            "Web Development"
+          ],
+          "title": "Luxurious Online Store Development",
+          "url": "https://www.upwork.com/jobs/~022099991603531841303"
+        },
+        {
+          "budget": "2,500.00",
+          "client": {
+            "country": "United States",
+            "rating": 4.96,
+            "total_spent": "$73,068.25",
+            "verification_status": "VERIFIED"
+          },
+          "published_date": "2026-09-15T22:40:27.915Z",
+          "job_type": "fixed",
+          "proposals_tier": "5 to 10",
+          "skills": [
+            "Custom Web Design",
+            "WordPress",
+            "Web Development",
+            "Web Design"
+          ],
+          "title": "Rebuild wordpress site",
+          "url": "https://www.upwork.com/jobs/~022099946147883876119"
+        },
+        {
+          "budget": "50.00",
+          "client": {
+            "country": "Netherlands"
+          },
+          "published_date": "2026-09-15T22:36:42.294Z",
+          "job_type": "fixed",
+          "proposals_tier": "Fewer than 5",
+          "skills": [
+            "Search Engine Optimization",
+            "SEO Backlinking",
+            "WordPress",
+            "Web Development"
+          ],
+          "title": "Backlink Assistance for Edutech Site",
+          "url": "https://www.upwork.com/jobs/~022099990440738934919"
+        },
+        {
+          "budget": "1,750.00",
+          "client": {
+            "country": "Armenia"
+          },
+          "published_date": "2026-09-15T22:32:22.290Z",
+          "job_type": "fixed",
+          "proposals_tier": "Fewer than 5",
+          "skills": [
+            "IOTA",
+            "GPS",
+            "API Integration",
+            "PostgreSQL",
+            "Full-Stack Development"
+          ],
+          "title": "Senior IoT / Telematics Developer \u2014 GPS, CAN/OBD, Live Fleet Tracking Prototype",
+          "url": "https://www.upwork.com/jobs/~022099989403350652993"
+        },
+        {
+          "budget": "20.00\u201350.00/hr",
+          "client": {
+            "country": "United States",
+            "rating": 5,
+            "total_spent": "$5,634.61",
+            "verification_status": "VERIFIED"
+          },
+          "published_date": "2026-09-15T22:32:22.252Z",
+          "job_type": "hourly",
+          "proposals_tier": "Fewer than 5",
+          "skills": [
+            "Internet Marketing",
+            "Network Administration",
+            "Computer Network",
+            "Network Security"
+          ],
+          "title": "ERPNext Specialist for Setup and SOPs",
+          "url": "https://www.upwork.com/jobs/~022099989482860564615"
+        },
+        {
+          "budget": "1,500.00",
+          "client": {
+            "country": "USA",
+            "total_spent": "$491.50",
+            "verification_status": "VERIFIED"
+          },
+          "published_date": "2026-09-15T22:27:11.292Z",
+          "job_type": "fixed",
+          "proposals_tier": "15 to 20",
+          "skills": [
+            "Content Writing",
+            "HubSpot",
+            "Technical Writing",
+            "Elearning"
+          ],
+          "title": "AI Automation & Content Systems Specialist",
+          "url": "https://www.upwork.com/jobs/~022099988104240486465"
+        }
+      ]
+    }
+  },
+  {
+    "keyword": "web developer",
+    "group": "CORE WEB DEVELOPMENT",
+    "response": {
+      "status": "ok",
+      "jobs": [
+        {
+          "client": {
+            "country": "Australia",
+            "verification_status": "VERIFIED"
+          },
+          "published_date": "2026-09-15T22:20:15.950Z",
+          "job_type": "hourly",
+          "proposals_tier": "20 to 50",
+          "skills": [
+            "JavaScript",
+            "WordPress",
+            "WordPress Development",
+            "WooCommerce",
+            "Web Development"
+          ],
+          "title": "WordPress Add to Quote Button Enhancement",
+          "url": "https://www.upwork.com/jobs/~022099986487462672054"
+        },
+        {
+          "client": {
+            "country": "United States",
+            "rating": 4.56,
+            "total_spent": "$5,841.33",
+            "verification_status": "VERIFIED"
+          },
+          "published_date": "2026-09-15T22:10:08.297Z",
+          "job_type": "hourly",
+          "proposals_tier": "10 to 15",
+          "skills": [
+            "API Integration",
+            "PHP",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Airtable"
+          ],
+          "title": "Deploy HTML website to SiteGround + connect Airtable API",
+          "url": "https://www.upwork.com/jobs/~022099983813172589983"
+        },
+        {
+          "budget": "5.00",
+          "client": {
+            "country": "Nigeria",
+            "rating": 5,
+            "total_spent": "$803.70",
+            "verification_status": "VERIFIED"
+          },
+          "published_date": "2026-09-15T22:08:19.753Z",
+          "job_type": "fixed",
+          "proposals_tier": "Fewer than 5",
+          "skills": [
+            "Squarespace",
+            "Website Redesign",
+            "Custom Web Design"
+          ],
+          "title": "Squarespace Website Redesign & Development",
+          "url": "https://www.upwork.com/jobs/~022099983328795960031"
+        },
+        {
+          "budget": "1,500.00",
+          "client": {
+            "country": "Nepal",
+            "verification_status": "VERIFIED"
+          },
+          "published_date": "2026-09-15T21:37:40.453Z",
+          "job_type": "fixed",
+          "proposals_tier": "10 to 15",
+          "skills": [
+            "PHP",
+            "WordPress Development",
+            "WordPress Security",
+            "WordPress Plugin"
+          ],
+          "title": "Senior WordPress Developer: Secure Verification Portal & Multi-Tenant Dashboard",
+          "url": "https://www.upwork.com/jobs/~022099975612360357279"
+        }
+      ]
+    }
+  },
+  {
+    "keyword": "custom website",
+    "group": "CORE WEB DEVELOPMENT",
+    "response": {
+      "status": "ok",
+      "jobs": [
+        {
+          "budget": "40.00",
+          "client": {
+            "country": "United States",
+            "rating": 4.96,
+            "total_spent": "$288,047.97",
+            "verification_status": "VERIFIED"
+          },
+          "published_date": "2026-09-15T22:12:19.925Z",
+          "job_type": "fixed",
+          "proposals_tier": "5 to 10",
+          "skills": [
+            "GIS",
+            "English",
+            "Internet Survey",
+            "SAP"
+          ],
+          "title": "Google Apps Script Dev: Build a Custom Branded Survey That Feeds Into Google Sheets",
+          "url": "https://www.upwork.com/jobs/~022099984432184751519"
+        },
+        {
+          "budget": "6,000.00",
+          "client": {
+            "country": "United States",
+            "total_spent": "$552.50",
+            "verification_status": "VERIFIED"
+          },
+          "published_date": "2026-09-15T21:43:47.958Z",
+          "job_type": "fixed",
+          "proposals_tier": "15 to 20",
+          "skills": [
+            "Copywriting",
+            "Brand Strategy Deliverables",
+            "Brand Design"
+          ],
+          "title": "Creative Director or Brand Designer for a Supplement Brand Refresh and Launch Campaign",
+          "url": "https://www.upwork.com/jobs/~022099977123202977927"
+        }
+      ]
+    }
+  },
+  {
+    "keyword": "frontend developer",
+    "group": "CORE WEB DEVELOPMENT",
+    "response": {
+      "status": "ok",
+      "jobs": [
+        {
+          "client": {
+            "country": "United States",
+            "rating": 4.8,
+            "total_spent": "$5,556.53",
+            "verification_status": "VERIFIED"
+          },
+          "published_date": "2026-09-15T22:18:06.266Z",
+          "job_type": "hourly",
+          "proposals_tier": "Fewer than 5",
+          "skills": [
+            "Search Engine Optimization",
+            "Internet Marketing",
+            "Marketing Strategy"
+          ],
+          "title": "Amazon Brand Outreach Consultant",
+          "url": "https://www.upwork.com/jobs/~022099940668936823519"
+        },
+        {
+          "budget": "10.00\u201315.00/hr",
+          "client": {
+            "country": "United States",
+            "total_spent": "$360.02",
+            "verification_status": "VERIFIED"
+          },
+          "published_date": "2026-09-15T20:57:11.438Z",
+          "job_type": "hourly",
+          "proposals_tier": "50+",
+          "skills": [
+            "React",
+            "JavaScript"
+          ],
+          "title": "React Developer",
+          "url": "https://www.upwork.com/jobs/~022099965552754226591"
+        }
+      ]
+    }
+  },
+  {
+    "keyword": "full stack developer",
+    "group": "CORE WEB DEVELOPMENT",
+    "response": {
+      "status": "ok",
+      "jobs": [
+        {
+          "budget": "1,000.00",
+          "client": {
+            "country": "Egypt",
+            "verification_status": "VERIFIED"
+          },
+          "published_date": "2026-09-15T22:20:15.945Z",
+          "job_type": "fixed",
+          "proposals_tier": "20 to 50",
+          "skills": [
+            "AI Agent Development",
+            "Web Development",
+            "Node.js",
+            "JavaScript"
+          ],
+          "title": "Full-Stack MVP Build for Venture-Backed Logistics Startup",
+          "url": "https://www.upwork.com/jobs/~022099986487135516342"
+        },
+        {
+          "budget": "25.00\u201347.00/hr",
+          "client": {
+            "country": "United States",
+            "rating": 4.39,
+            "total_spent": "$11,483.16",
+            "verification_status": "VERIFIED"
+          },
+          "published_date": "2026-09-15T21:34:34.036Z",
+          "job_type": "hourly",
+          "proposals_tier": "20 to 50",
+          "skills": [
+            "React",
+            "SaaS",
+            "Next.js",
+            "Full-Stack Development",
+            "Supabase"
+          ],
+          "title": "Senior Next.js Engineer \u2014 Live Beta ERP with a 600-Company Built-In Market",
+          "url": "https://www.upwork.com/jobs/~022099929559868430401"
+        },
+        {
+          "budget": "10.00",
+          "client": {
+            "country": "Bangladesh",
+            "rating": 4.56,
+            "total_spent": "$347.25",
+            "verification_status": "VERIFIED"
+          },
+          "published_date": "2026-09-15T21:09:20.517Z",
+          "job_type": "fixed",
+          "proposals_tier": "Fewer than 5",
+          "skills": [
+            "Vibe Coding",
+            "Web Application Development"
+          ],
+          "title": "Vibe Code AI Video Editor Windows and Mac SaaS App with Web Integration",
+          "url": "https://www.upwork.com/jobs/~022099968468602116161"
+        }
+      ]
+    }
+  },
+  {
+    "keyword": "web design",
+    "group": "WEB DESIGN",
+    "response": {
+      "status": "ok",
+      "jobs": [
+        {
+          "client": {
+            "country": "USA",
+            "total_spent": "$71.86",
+            "verification_status": "VERIFIED"
+          },
+          "published_date": "2026-09-15T22:03:00.133Z",
+          "job_type": "hourly",
+          "proposals_tier": "10 to 15",
+          "skills": [
+            "Mobile App Redesign",
+            "Figma",
+            "UX & UI Design"
+          ],
+          "title": "UX/UI designer for a live parenting app (React web app, Figma, App Store screenshots)",
+          "url": "https://www.upwork.com/jobs/~022099936780015903455"
+        },
+        {
+          "budget": "10.00\u201320.00/hr",
+          "client": {
+            "country": "United States"
+          },
+          "published_date": "2026-09-15T21:32:10.915Z",
+          "job_type": "hourly",
+          "proposals_tier": "10 to 15",
+          "skills": [
+            "Banner Ad Design",
+            "Graphic Design",
+            "Adobe Photoshop",
+            "Web Design"
+          ],
+          "title": "Website Banner Designer for Promotions",
+          "url": "https://www.upwork.com/jobs/~022099974228221540929"
+        }
+      ]
+    }
+  },
+  {
+    "keyword": "website design",
+    "group": "WEB DESIGN",
+    "response": {
+      "status": "ok",
+      "jobs": [
+        {
+          "client": {
+            "country": "USA",
+            "total_spent": "$71.86",
+            "verification_status": "VERIFIED"
+          },
+          "published_date": "2026-09-15T22:03:00.133Z",
+          "job_type": "hourly",
+          "proposals_tier": "10 to 15",
+          "skills": [
+            "Figma",
+            "UX & UI Design"
+          ],
+          "title": "UX/UI designer for a live parenting app (React web app, Figma, App Store screenshots)",
+          "url": "https://www.upwork.com/jobs/~022099936780015903455"
+        }
+      ]
+    }
+  },
+  {
+    "keyword": "website redesign",
+    "group": "WEB DESIGN",
+    "response": {
+      "status": "ok",
+      "jobs": [
+        {
+          "budget": "5.00",
+          "client": {
+            "country": "Nigeria",
+            "rating": 5,
+            "verification_status": "VERIFIED"
+          },
+          "published_date": "2026-09-15T22:08:19.753Z",
+          "job_type": "fixed",
+          "proposals_tier": "Fewer than 5",
+          "skills": [
+            "Squarespace",
+            "Website Redesign"
+          ],
+          "title": "Squarespace Website Redesign & Development",
+          "url": "https://www.upwork.com/jobs/~022099983328795960031"
+        },
+        {
+          "budget": "10.00",
+          "client": {
+            "country": "NGA",
+            "rating": 5,
+            "verification_status": "VERIFIED"
+          },
+          "published_date": "2026-09-15T21:12:05.492Z",
+          "job_type": "fixed",
+          "proposals_tier": "Fewer than 5",
+          "skills": [
+            "Squarespace",
+            "Website Redesign",
+            "Web Development"
+          ],
+          "title": "Squarespace Website Redesign Expert Needed for Business Website",
+          "url": "https://www.upwork.com/jobs/~022099969380542959751"
+        },
+        {
+          "budget": "18.00\u201325.00/hr",
+          "client": {
+            "country": "United States"
+          },
+          "published_date": "2026-09-15T21:03:58.600Z",
+          "job_type": "hourly",
+          "proposals_tier": "20 to 50",
+          "skills": [
+            "Shopify",
+            "Web Design",
+            "Shopify Templates"
+          ],
+          "title": "Design a new website in Shopify work",
+          "url": "https://www.upwork.com/jobs/~022099967111644413719"
+        }
+      ]
+    }
+  },
+  {
+    "keyword": "landing page design",
+    "group": "WEB DESIGN",
+    "response": {
+      "status": "ok",
+      "jobs": [
+        {
+          "budget": "40.00\u201350.00/hr",
+          "client": {
+            "country": "Canada",
+            "rating": 4.88,
+            "total_spent": "$50,214.75",
+            "verification_status": "VERIFIED"
+          },
+          "published_date": "2026-09-15T22:13:03.884Z",
+          "job_type": "hourly",
+          "proposals_tier": "5 to 10",
+          "skills": [
+            "Facebook Ads Manager",
+            "Media Buying",
+            "Paid Media"
+          ],
+          "title": "Media Buying \u2013 DTC / Meta Ads",
+          "url": "https://www.upwork.com/jobs/~022099984514142754881"
+        },
+        {
+          "client": {
+            "country": "USA",
+            "total_spent": "$208.35",
+            "verification_status": "VERIFIED"
+          },
+          "published_date": "2026-09-15T21:33:08.191Z",
+          "job_type": "hourly",
+          "proposals_tier": "10 to 15",
+          "skills": [
+            "Conversion Rate Optimization",
+            "Shopify",
+            "Ecommerce Website"
+          ],
+          "title": "Shopify Audit",
+          "url": "https://www.upwork.com/jobs/~022099974393990542751"
+        }
+      ]
+    }
+  },
+  {
+    "keyword": "UI UX website",
+    "group": "WEB DESIGN",
+    "response": {
+      "status": "ok",
+      "jobs": [
+        {
+          "client": {
+            "country": "United States"
+          },
+          "published_date": "2026-09-15T22:21:33.728Z",
+          "job_type": "hourly",
+          "proposals_tier": "10 to 15",
+          "skills": [
+            "Figma",
+            "Web Design",
+            "Webflow",
+            "UX & UI Design"
+          ],
+          "title": "Pachena Web App Design",
+          "url": "https://www.upwork.com/jobs/~022099941326168903815"
+        },
+        {
+          "budget": "15.00\u201335.00/hr",
+          "client": {
+            "country": "United States",
+            "verification_status": "VERIFIED"
+          },
+          "published_date": "2026-09-15T21:40:21.317Z",
+          "job_type": "hourly",
+          "proposals_tier": "20 to 50",
+          "skills": [
+            "No-Code Development",
+            "No-Code Website",
+            "AI-Assisted UX Design"
+          ],
+          "title": "AI / No-Code Developer + Product Designer for Premium Creator Membership Platform",
+          "url": "https://www.upwork.com/jobs/~022099976447320454559"
+        }
+      ]
+    }
+  }
+]
