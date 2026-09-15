@@ -1,0 +1,68 @@
+{
+  "CORE WEB DEVELOPMENT": {
+    "totalJobs": 6,
+    "jobsLast24h": 6,
+    "opportunityScore": 13,
+    "sampleConfidence": "Low"
+  },
+  "WEB DESIGN": {
+    "totalJobs": 0,
+    "jobsLast24h": 0,
+    "opportunityScore": 1,
+    "sampleConfidence": "Very Low"
+  },
+  "WORDPRESS": {
+    "totalJobs": 2,
+    "jobsLast24h": 2,
+    "opportunityScore": 6,
+    "sampleConfidence": "Very Low"
+  },
+  "WEBFLOW / FRAMER": {
+    "totalJobs": 0,
+    "jobsLast24h": 0,
+    "opportunityScore": 1,
+    "sampleConfidence": "Very Low"
+  },
+  "AI / VIBE CODING": {
+    "totalJobs": 0,
+    "jobsLast24h": 0,
+    "opportunityScore": 1,
+    "sampleConfidence": "Very Low"
+  },
+  "GOHIGHLEVEL": {
+    "totalJobs": 0,
+    "jobsLast24h": 0,
+    "opportunityScore": 1,
+    "sampleConfidence": "Very Low"
+  },
+  "ADJACENT PLATFORMS": {
+    "totalJobs": 0,
+    "jobsLast24h": 0,
+    "opportunityScore": 1,
+    "sampleConfidence": "Very Low"
+  },
+  "MODERN STACK": {
+    "totalJobs": 0,
+    "jobsLast24h": 0,
+    "opportunityScore": 1,
+    "sampleConfidence": "Very Low"
+  },
+  "ECOMMERCE": {
+    "totalJobs": 1,
+    "jobsLast24h": 1,
+    "opportunityScore": 12,
+    "sampleConfidence": "Very Low"
+  },
+  "MAINTENANCE / RETAINERS": {
+    "totalJobs": 0,
+    "jobsLast24h": 0,
+    "opportunityScore": 1,
+    "sampleConfidence": "Very Low"
+  },
+  "CONVERSION / PERFORMANCE": {
+    "totalJobs": 0,
+    "jobsLast24h": 0,
+    "opportunityScore": 1,
+    "sampleConfidence": "Very Low"
+  }
+}
