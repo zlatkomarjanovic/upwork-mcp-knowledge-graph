@@ -1,0 +1,90 @@
+{
+  "WordPress": {
+    "jobs": 23,
+    "avgBudgetFixed": 351.42857142857144,
+    "avgRateHourly": 17.4,
+    "medianProposals": 9.5,
+    "sampleConfidence": "Medium",
+    "opportunityScore": 60
+  },
+  "Webflow": {
+    "jobs": 21,
+    "avgBudgetFixed": 395,
+    "avgRateHourly": 16.833333333333332,
+    "medianProposals": 9.5,
+    "sampleConfidence": "Medium",
+    "opportunityScore": 60
+  },
+  "Framer": {
+    "jobs": 20,
+    "avgBudgetFixed": 395,
+    "avgRateHourly": 16.833333333333332,
+    "medianProposals": 9,
+    "sampleConfidence": "Medium",
+    "opportunityScore": 60
+  },
+  "GoHighLevel": {
+    "jobs": 21,
+    "avgBudgetFixed": 481.42857142857144,
+    "avgRateHourly": 16.833333333333332,
+    "medianProposals": 9.5,
+    "sampleConfidence": "Medium",
+    "opportunityScore": 61
+  },
+  "Shopify": {
+    "jobs": 21,
+    "avgBudgetFixed": 395,
+    "avgRateHourly": 16.833333333333332,
+    "medianProposals": 8.5,
+    "sampleConfidence": "Medium",
+    "opportunityScore": 60
+  },
+  "WooCommerce": {
+    "jobs": 22,
+    "avgBudgetFixed": 332.5,
+    "avgRateHourly": 16.833333333333332,
+    "medianProposals": 9,
+    "sampleConfidence": "Medium",
+    "opportunityScore": 60
+  },
+  "Shopware": {
+    "jobs": 0,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": null,
+    "sampleConfidence": "Very Low",
+    "opportunityScore": 6
+  },
+  "Lovable": {
+    "jobs": 0,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": null,
+    "sampleConfidence": "Very Low",
+    "opportunityScore": 6
+  },
+  "Bolt": {
+    "jobs": 0,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": null,
+    "sampleConfidence": "Very Low",
+    "opportunityScore": 6
+  },
+  "v0": {
+    "jobs": 0,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": null,
+    "sampleConfidence": "Very Low",
+    "opportunityScore": 6
+  },
+  "Next.js": {
+    "jobs": 20,
+    "avgBudgetFixed": 395,
+    "avgRateHourly": 16.833333333333332,
+    "medianProposals": 9,
+    "sampleConfidence": "Medium",
+    "opportunityScore": 60
+  }
+}
