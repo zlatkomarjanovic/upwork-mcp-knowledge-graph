@@ -10,7 +10,7 @@
     "pctVerified": 100.0,
     "avgClientSpend": 4297.82,
     "pctHighBudget": 100.0,
-    "opportunityScore": 19,
+    "opportunityScore": 31,
     "sampleConfidence": "Very Low"
   },
   "website development": {
@@ -24,7 +24,7 @@
     "pctVerified": 100.0,
     "avgClientSpend": 4297.82,
     "pctHighBudget": 100.0,
-    "opportunityScore": 19,
+    "opportunityScore": 31,
     "sampleConfidence": "Very Low"
   },
   "web developer": {
@@ -38,7 +38,7 @@
     "pctVerified": 50.0,
     "avgClientSpend": null,
     "pctHighBudget": 50.0,
-    "opportunityScore": 42,
+    "opportunityScore": 48,
     "sampleConfidence": "Very Low"
   },
   "custom website": {
@@ -94,7 +94,7 @@
     "pctVerified": 83.3,
     "avgClientSpend": 12016.78,
     "pctHighBudget": 0.0,
-    "opportunityScore": 13,
+    "opportunityScore": 26,
     "sampleConfidence": "Low"
   },
   "website design": {
@@ -108,7 +108,7 @@
     "pctVerified": 83.3,
     "avgClientSpend": 12016.78,
     "pctHighBudget": 0.0,
-    "opportunityScore": 13,
+    "opportunityScore": 26,
     "sampleConfidence": "Low"
   },
   "website redesign": {
@@ -122,7 +122,7 @@
     "pctVerified": 50.0,
     "avgClientSpend": 2699.16,
     "pctHighBudget": 0.0,
-    "opportunityScore": 6,
+    "opportunityScore": 21,
     "sampleConfidence": "Very Low"
   },
   "landing page design": {
@@ -136,7 +136,7 @@
     "pctVerified": 83.3,
     "avgClientSpend": 12016.78,
     "pctHighBudget": 0.0,
-    "opportunityScore": 13,
+    "opportunityScore": 26,
     "sampleConfidence": "Low"
   },
   "UI UX website": {
@@ -178,7 +178,7 @@
     "pctVerified": 80.0,
     "avgClientSpend": 2343.97,
     "pctHighBudget": 20.0,
-    "opportunityScore": 18,
+    "opportunityScore": 33,
     "sampleConfidence": "Low"
   },
   "wordpress developer": {
@@ -192,7 +192,7 @@
     "pctVerified": 100.0,
     "avgClientSpend": null,
     "pctHighBudget": 100.0,
-    "opportunityScore": 29,
+    "opportunityScore": 42,
     "sampleConfidence": "Very Low"
   },
   "wordpress website": {
@@ -206,7 +206,7 @@
     "pctVerified": 50.0,
     "avgClientSpend": 1443.71,
     "pctHighBudget": 0.0,
-    "opportunityScore": 17,
+    "opportunityScore": 33,
     "sampleConfidence": "Very Low"
   },
   "wordpress development": {
@@ -220,7 +220,7 @@
     "pctVerified": 100.0,
     "avgClientSpend": null,
     "pctHighBudget": 100.0,
-    "opportunityScore": 29,
+    "opportunityScore": 42,
     "sampleConfidence": "Very Low"
   },
   "wordpress redesign": {
@@ -304,7 +304,7 @@
     "pctVerified": 50.0,
     "avgClientSpend": null,
     "pctHighBudget": 50.0,
-    "opportunityScore": 42,
+    "opportunityScore": 48,
     "sampleConfidence": "Very Low"
   },
   "elementor developer": {
@@ -346,7 +346,7 @@
     "pctVerified": 100.0,
     "avgClientSpend": 820.92,
     "pctHighBudget": 100.0,
-    "opportunityScore": 29,
+    "opportunityScore": 38,
     "sampleConfidence": "Very Low"
   },
   "webflow developer": {
@@ -416,7 +416,7 @@
     "pctVerified": 100.0,
     "avgClientSpend": 25776.19,
     "pctHighBudget": 0.0,
-    "opportunityScore": 14,
+    "opportunityScore": 22,
     "sampleConfidence": "Very Low"
   },
   "framer developer": {
@@ -444,7 +444,7 @@
     "pctVerified": 100.0,
     "avgClientSpend": null,
     "pctHighBudget": 0.0,
-    "opportunityScore": 20,
+    "opportunityScore": 22,
     "sampleConfidence": "Very Low"
   },
   "framer redesign": {
@@ -486,7 +486,7 @@
     "pctVerified": 80.0,
     "avgClientSpend": 40190.36,
     "pctHighBudget": 20.0,
-    "opportunityScore": 21,
+    "opportunityScore": 34,
     "sampleConfidence": "Low"
   },
   "AI web developer": {
