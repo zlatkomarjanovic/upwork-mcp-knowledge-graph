@@ -61,4 +61,4 @@ Maintenance: Retainer-style WordPress support posts.
 
 ## Important Changes
 
-See run log for deltas.
+Run 2: All 93 keyword searches completed with 0 failures. Search API accessible again after run 1 restriction. No new unique jobs in the ~1h window (matches already tracked).
