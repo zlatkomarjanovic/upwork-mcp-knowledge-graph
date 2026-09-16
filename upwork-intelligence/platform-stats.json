@@ -1,0 +1,90 @@
+{
+  "WordPress": {
+    "jobs": 21,
+    "avgBudgetFixed": 770.0,
+    "avgRateHourly": 27.1,
+    "medianProposals": 12,
+    "opportunityScore": 39,
+    "sampleConfidence": "Medium"
+  },
+  "Webflow": {
+    "jobs": 3,
+    "avgBudgetFixed": 500.0,
+    "avgRateHourly": 24.5,
+    "medianProposals": 7,
+    "opportunityScore": 41,
+    "sampleConfidence": "Very Low"
+  },
+  "Framer": {
+    "jobs": 0,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": null,
+    "opportunityScore": 1,
+    "sampleConfidence": "Very Low"
+  },
+  "GoHighLevel": {
+    "jobs": 0,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": null,
+    "opportunityScore": 1,
+    "sampleConfidence": "Very Low"
+  },
+  "Shopify": {
+    "jobs": 4,
+    "avgBudgetFixed": 1020.0,
+    "avgRateHourly": 27.5,
+    "medianProposals": 12,
+    "opportunityScore": 39,
+    "sampleConfidence": "Very Low"
+  },
+  "WooCommerce": {
+    "jobs": 3,
+    "avgBudgetFixed": 505.0,
+    "avgRateHourly": null,
+    "medianProposals": 7,
+    "opportunityScore": 48,
+    "sampleConfidence": "Very Low"
+  },
+  "Shopware": {
+    "jobs": 0,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": null,
+    "opportunityScore": 1,
+    "sampleConfidence": "Very Low"
+  },
+  "Lovable": {
+    "jobs": 0,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": null,
+    "opportunityScore": 1,
+    "sampleConfidence": "Very Low"
+  },
+  "Bolt": {
+    "jobs": 0,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": null,
+    "opportunityScore": 1,
+    "sampleConfidence": "Very Low"
+  },
+  "v0": {
+    "jobs": 0,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": null,
+    "opportunityScore": 1,
+    "sampleConfidence": "Very Low"
+  },
+  "Next.js": {
+    "jobs": 2,
+    "avgBudgetFixed": 1000.0,
+    "avgRateHourly": 35.0,
+    "medianProposals": 39,
+    "opportunityScore": 35,
+    "sampleConfidence": "Very Low"
+  }
+}
