@@ -1,0 +1,101 @@
+{
+  "WordPress": {
+    "platform": "WordPress",
+    "jobs": 6,
+    "avgBudgetFixed": 1748.0,
+    "avgRateHourly": 18.5,
+    "medianProposals": 12,
+    "opportunityScore": 28,
+    "confidence": "Low"
+  },
+  "Webflow": {
+    "platform": "Webflow",
+    "jobs": 1,
+    "avgBudgetFixed": null,
+    "avgRateHourly": 57.5,
+    "medianProposals": 35,
+    "opportunityScore": 29,
+    "confidence": "Very Low"
+  },
+  "Framer": {
+    "platform": "Framer",
+    "jobs": 2,
+    "avgBudgetFixed": 500.0,
+    "avgRateHourly": 20.0,
+    "medianProposals": 35,
+    "opportunityScore": 14,
+    "confidence": "Very Low"
+  },
+  "GoHighLevel": {
+    "platform": "GoHighLevel",
+    "jobs": 0,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": null,
+    "opportunityScore": 0,
+    "confidence": "Very Low"
+  },
+  "Shopify": {
+    "platform": "Shopify",
+    "jobs": 1,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": 60,
+    "opportunityScore": 5,
+    "confidence": "Very Low"
+  },
+  "WooCommerce": {
+    "platform": "WooCommerce",
+    "jobs": 2,
+    "avgBudgetFixed": 1000.0,
+    "avgRateHourly": 18.5,
+    "medianProposals": 12,
+    "opportunityScore": 42,
+    "confidence": "Very Low"
+  },
+  "Shopware": {
+    "platform": "Shopware",
+    "jobs": 0,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": null,
+    "opportunityScore": 0,
+    "confidence": "Very Low"
+  },
+  "Lovable": {
+    "platform": "Lovable",
+    "jobs": 0,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": null,
+    "opportunityScore": 0,
+    "confidence": "Very Low"
+  },
+  "Bolt": {
+    "platform": "Bolt",
+    "jobs": 0,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": null,
+    "opportunityScore": 0,
+    "confidence": "Very Low"
+  },
+  "v0": {
+    "platform": "v0",
+    "jobs": 0,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": null,
+    "opportunityScore": 0,
+    "confidence": "Very Low"
+  },
+  "Next.js": {
+    "platform": "Next.js",
+    "jobs": 0,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": null,
+    "opportunityScore": 0,
+    "confidence": "Very Low"
+  }
+}
