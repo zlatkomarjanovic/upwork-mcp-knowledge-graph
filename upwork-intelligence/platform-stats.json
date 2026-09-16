@@ -1,0 +1,90 @@
+{
+  "WordPress": {
+    "jobs": 60,
+    "avgBudgetFixed": 481.53,
+    "avgRateHourly": 21.94,
+    "medianProposals": 16,
+    "opportunityScore": 57,
+    "sampleConfidence": "High"
+  },
+  "Webflow": {
+    "jobs": 35,
+    "avgBudgetFixed": 234.11,
+    "avgRateHourly": 27.0,
+    "medianProposals": 8,
+    "opportunityScore": 59,
+    "sampleConfidence": "Medium"
+  },
+  "Framer": {
+    "jobs": 19,
+    "avgBudgetFixed": 444.4,
+    "avgRateHourly": 21.79,
+    "medianProposals": 16,
+    "opportunityScore": 64,
+    "sampleConfidence": "Medium"
+  },
+  "GoHighLevel": {
+    "jobs": 20,
+    "avgBudgetFixed": 166.5,
+    "avgRateHourly": 16.33,
+    "medianProposals": 6,
+    "opportunityScore": 53,
+    "sampleConfidence": "Medium"
+  },
+  "Shopify": {
+    "jobs": 27,
+    "avgBudgetFixed": 404.06,
+    "avgRateHourly": 14.39,
+    "medianProposals": 10,
+    "opportunityScore": 53,
+    "sampleConfidence": "Medium"
+  },
+  "WooCommerce": {
+    "jobs": 9,
+    "avgBudgetFixed": 257.5,
+    "avgRateHourly": 14.25,
+    "medianProposals": 13,
+    "opportunityScore": 48,
+    "sampleConfidence": "Low"
+  },
+  "Shopware": {
+    "jobs": 5,
+    "avgBudgetFixed": 426.25,
+    "avgRateHourly": 35.0,
+    "medianProposals": 9,
+    "opportunityScore": 52,
+    "sampleConfidence": "Low"
+  },
+  "Lovable": {
+    "jobs": 3,
+    "avgBudgetFixed": 1507.5,
+    "avgRateHourly": 32.5,
+    "medianProposals": 25,
+    "opportunityScore": 66,
+    "sampleConfidence": "Very Low"
+  },
+  "Bolt": {
+    "jobs": 0,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": null,
+    "opportunityScore": 0,
+    "sampleConfidence": "Very Low"
+  },
+  "v0": {
+    "jobs": 0,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": null,
+    "opportunityScore": 0,
+    "sampleConfidence": "Very Low"
+  },
+  "Next.js": {
+    "jobs": 21,
+    "avgBudgetFixed": 611.11,
+    "avgRateHourly": 16.36,
+    "medianProposals": 7,
+    "opportunityScore": 52,
+    "sampleConfidence": "Medium"
+  }
+}
