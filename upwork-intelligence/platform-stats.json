@@ -1,0 +1,79 @@
+{
+  "WordPress": {
+    "jobs": 0,
+    "avgBudgetOrRate": null,
+    "medianProposals": null,
+    "score": null,
+    "confidence": "Very Low"
+  },
+  "Webflow": {
+    "jobs": 0,
+    "avgBudgetOrRate": null,
+    "medianProposals": null,
+    "score": null,
+    "confidence": "Very Low"
+  },
+  "Framer": {
+    "jobs": 0,
+    "avgBudgetOrRate": null,
+    "medianProposals": null,
+    "score": null,
+    "confidence": "Very Low"
+  },
+  "GoHighLevel": {
+    "jobs": 0,
+    "avgBudgetOrRate": null,
+    "medianProposals": null,
+    "score": null,
+    "confidence": "Very Low"
+  },
+  "Shopify": {
+    "jobs": 0,
+    "avgBudgetOrRate": null,
+    "medianProposals": null,
+    "score": null,
+    "confidence": "Very Low"
+  },
+  "WooCommerce": {
+    "jobs": 0,
+    "avgBudgetOrRate": null,
+    "medianProposals": null,
+    "score": null,
+    "confidence": "Very Low"
+  },
+  "Shopware": {
+    "jobs": 0,
+    "avgBudgetOrRate": null,
+    "medianProposals": null,
+    "score": null,
+    "confidence": "Very Low"
+  },
+  "Lovable": {
+    "jobs": 0,
+    "avgBudgetOrRate": null,
+    "medianProposals": null,
+    "score": null,
+    "confidence": "Very Low"
+  },
+  "Bolt": {
+    "jobs": 0,
+    "avgBudgetOrRate": null,
+    "medianProposals": null,
+    "score": null,
+    "confidence": "Very Low"
+  },
+  "v0": {
+    "jobs": 0,
+    "avgBudgetOrRate": null,
+    "medianProposals": null,
+    "score": null,
+    "confidence": "Very Low"
+  },
+  "Next.js": {
+    "jobs": 0,
+    "avgBudgetOrRate": null,
+    "medianProposals": null,
+    "score": null,
+    "confidence": "Very Low"
+  }
+}
