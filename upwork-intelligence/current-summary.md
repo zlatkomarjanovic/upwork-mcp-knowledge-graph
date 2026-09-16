@@ -1,7 +1,7 @@
 # Upwork Market Intelligence
 
-Last updated: 2026-09-16T00:45:37.462438Z
-Run: 3
+Last updated: 2026-09-16T00:45:28.773925Z
+Run: 2
 Total jobs tracked: 17
 Keywords attempted: 93
 Keywords completed: 93
@@ -61,4 +61,4 @@ Maintenance: Retainer-style WordPress support posts.
 
 ## Important Changes
 
-Run 2: All 93 keyword searches completed with 0 failures. Search API accessible again after run 1 restriction. No new unique jobs in the ~1h window (matches already tracked).
+See run log for deltas.
