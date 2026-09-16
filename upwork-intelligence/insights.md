@@ -6,3 +6,5 @@
 - Supabase/React SaaS and AI production-hardening roles show the highest hourly bands.
 - GoHighLevel implementation and CRM cleanup jobs spiked overnight (US clients).
 - Webflow senior CMS builds remain expert-rate but lower volume than WordPress.
+
+- Run 5 (2026-09-16): Live hourly posts included WordPress + OwnerRez takeover ($25–60/hr, US verified), Shopify Liquid/CRO $1k (Germany), vibe-coded project review, Ravel SaaS hardening ($500, Next.js), and ProJobs Next.js/Twilio AI CRM. Shopify developer keyword score rose when live ecommerce posts are ingested.
