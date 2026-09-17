@@ -43,10 +43,7 @@ def main() -> None:
     out = []
     for keyword, group in KW.items():
         jobs = [j for j in pool if relevant(j, keyword)]
-        if len(jobs) < 3:
-            jobs = pool[:10]
-        else:
-            jobs = jobs[:10]
+        jobs = jobs[:10]
         slim = [{k: v for k, v in j.items() if k != "description_snippet"} for j in jobs]
         out.append({"keyword": keyword, "group": group, "response": {"status": "ok", "jobs": slim}})
     (ROOT / "search_responses.json").write_text(json.dumps(out, ensure_ascii=False))

@@ -178,7 +178,7 @@
     "pctVerified": 50.0,
     "avgClientSpend": null,
     "pctHighBudget": 0.0,
-    "opportunityScore": 32,
+    "opportunityScore": 31,
     "sampleConfidence": "Very Low"
   },
   "wordpress developer": {
@@ -234,7 +234,7 @@
     "pctVerified": 50.0,
     "avgClientSpend": null,
     "pctHighBudget": 0.0,
-    "opportunityScore": 32,
+    "opportunityScore": 31,
     "sampleConfidence": "Very Low"
   },
   "wordpress customization": {
@@ -248,7 +248,7 @@
     "pctVerified": 50.0,
     "avgClientSpend": null,
     "pctHighBudget": 0.0,
-    "opportunityScore": 32,
+    "opportunityScore": 31,
     "sampleConfidence": "Very Low"
   },
   "wordpress migration": {
@@ -262,7 +262,7 @@
     "pctVerified": 50.0,
     "avgClientSpend": null,
     "pctHighBudget": 0.0,
-    "opportunityScore": 32,
+    "opportunityScore": 31,
     "sampleConfidence": "Very Low"
   },
   "wordpress speed optimization": {
@@ -276,7 +276,7 @@
     "pctVerified": 50.0,
     "avgClientSpend": null,
     "pctHighBudget": 0.0,
-    "opportunityScore": 32,
+    "opportunityScore": 31,
     "sampleConfidence": "Very Low"
   },
   "wordpress maintenance": {
@@ -290,7 +290,7 @@
     "pctVerified": 50.0,
     "avgClientSpend": null,
     "pctHighBudget": 0.0,
-    "opportunityScore": 32,
+    "opportunityScore": 31,
     "sampleConfidence": "Very Low"
   },
   "woocommerce": {
@@ -1144,7 +1144,7 @@
     "pctVerified": 50.0,
     "avgClientSpend": null,
     "pctHighBudget": 0.0,
-    "opportunityScore": 32,
+    "opportunityScore": 31,
     "sampleConfidence": "Very Low"
   },
   "webflow maintenance": {

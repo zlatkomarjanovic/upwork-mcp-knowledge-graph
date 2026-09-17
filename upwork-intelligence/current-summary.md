@@ -1,7 +1,7 @@
 # Upwork Market Intelligence
 
-Last updated: 2026-09-17T05:57:22.038116Z
-Run: 2
+Last updated: 2026-09-17T06:01:04.605892Z
+Run: 3
 Total jobs tracked: 10
 Keywords attempted: 93
 Keywords completed: 93
@@ -22,8 +22,8 @@ Keywords completed: 93
 ## Strongest Groups
 
 - MODERN STACK: jobs24h 40, total 40, avg score 32
-- WORDPRESS: jobs24h 61, total 61, avg score 31.7
 - AI / VIBE CODING: jobs24h 76, total 76, avg score 31.7
+- WORDPRESS: jobs24h 61, total 61, avg score 31.2
 - ECOMMERCE: jobs24h 54, total 54, avg score 31.2
 - CORE WEB DEVELOPMENT: jobs24h 31, total 31, avg score 30.7
 
