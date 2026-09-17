@@ -1,0 +1,90 @@
+{
+  "WordPress": {
+    "jobs": 3,
+    "avgBudgetFixed": 90,
+    "avgRateHourly": 22.5,
+    "medianProposals": 10,
+    "sampleConfidence": "Very Low",
+    "opportunityScore": 32
+  },
+  "Webflow": {
+    "jobs": 1,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": 80,
+    "sampleConfidence": "Very Low",
+    "opportunityScore": 14
+  },
+  "Framer": {
+    "jobs": 0,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": null,
+    "sampleConfidence": "Very Low",
+    "opportunityScore": 6
+  },
+  "GoHighLevel": {
+    "jobs": 1,
+    "avgBudgetFixed": 1000,
+    "avgRateHourly": null,
+    "medianProposals": 66,
+    "sampleConfidence": "Very Low",
+    "opportunityScore": 34
+  },
+  "Shopify": {
+    "jobs": 1,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": 6,
+    "sampleConfidence": "Very Low",
+    "opportunityScore": 29
+  },
+  "WooCommerce": {
+    "jobs": 2,
+    "avgBudgetFixed": 145,
+    "avgRateHourly": null,
+    "medianProposals": 13,
+    "sampleConfidence": "Very Low",
+    "opportunityScore": 28
+  },
+  "Shopware": {
+    "jobs": 0,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": null,
+    "sampleConfidence": "Very Low",
+    "opportunityScore": 6
+  },
+  "Lovable": {
+    "jobs": 0,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": null,
+    "sampleConfidence": "Very Low",
+    "opportunityScore": 6
+  },
+  "Bolt": {
+    "jobs": 0,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": null,
+    "sampleConfidence": "Very Low",
+    "opportunityScore": 6
+  },
+  "v0": {
+    "jobs": 0,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": null,
+    "sampleConfidence": "Very Low",
+    "opportunityScore": 6
+  },
+  "Next.js": {
+    "jobs": 0,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": null,
+    "sampleConfidence": "Very Low",
+    "opportunityScore": 6
+  }
+}
