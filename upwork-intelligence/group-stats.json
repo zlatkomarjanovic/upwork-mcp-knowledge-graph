@@ -1,0 +1,67 @@
+{
+  "CORE WEB DEVELOPMENT": {
+    "totalJobs": 6,
+    "jobsLast24h": 6,
+    "avgBudgetFixed": 268.75,
+    "avgRateHourly": 25.0,
+    "medianProposals": 14,
+    "pctVerified": 66.7,
+    "avgClientSpend": 2982.82,
+    "pctHighBudget": 16.7,
+    "opportunityScore": 74,
+    "sampleConfidence": "Low",
+    "rankScore": 74
+  },
+  "WEB DESIGN": {
+    "totalJobs": 1,
+    "jobsLast24h": 1,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": 7,
+    "pctVerified": 0.0,
+    "avgClientSpend": null,
+    "pctHighBudget": 0.0,
+    "opportunityScore": 78,
+    "sampleConfidence": "Very Low",
+    "rankScore": 78
+  },
+  "WORDPRESS": {
+    "totalJobs": 2,
+    "jobsLast24h": 2,
+    "avgBudgetFixed": null,
+    "avgRateHourly": 12.5,
+    "medianProposals": 45,
+    "pctVerified": 100.0,
+    "avgClientSpend": null,
+    "pctHighBudget": 0.0,
+    "opportunityScore": 65,
+    "sampleConfidence": "Very Low",
+    "rankScore": 65
+  },
+  "WEBFLOW / FRAMER": {
+    "totalJobs": 1,
+    "jobsLast24h": 1,
+    "avgBudgetFixed": 300.0,
+    "avgRateHourly": null,
+    "medianProposals": 35,
+    "pctVerified": 100.0,
+    "avgClientSpend": null,
+    "pctHighBudget": 0.0,
+    "opportunityScore": 78,
+    "sampleConfidence": "Very Low",
+    "rankScore": 78
+  },
+  "GOHIGHLEVEL": {
+    "totalJobs": 3,
+    "jobsLast24h": 3,
+    "avgBudgetFixed": null,
+    "avgRateHourly": 12.5,
+    "medianProposals": 17,
+    "pctVerified": 100.0,
+    "avgClientSpend": 18278.92,
+    "pctHighBudget": 0.0,
+    "opportunityScore": 75,
+    "sampleConfidence": "Very Low",
+    "rankScore": 75
+  }
+}
