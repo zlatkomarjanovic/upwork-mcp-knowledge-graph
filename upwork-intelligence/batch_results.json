@@ -1,0 +1,471 @@
+{
+  "runNumber": 1,
+  "windowHours": 2,
+  "searches": [
+    {
+      "keyword": "web development",
+      "group": "CORE WEB DEVELOPMENT",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "website development",
+      "group": "CORE WEB DEVELOPMENT",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "web developer",
+      "group": "CORE WEB DEVELOPMENT",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "custom website",
+      "group": "CORE WEB DEVELOPMENT",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "frontend developer",
+      "group": "CORE WEB DEVELOPMENT",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "full stack developer",
+      "group": "CORE WEB DEVELOPMENT",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "web design",
+      "group": "WEB DESIGN",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "website design",
+      "group": "WEB DESIGN",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "website redesign",
+      "group": "WEB DESIGN",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "landing page design",
+      "group": "WEB DESIGN",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "UI UX website",
+      "group": "WEB DESIGN",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "responsive web design",
+      "group": "WEB DESIGN",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "wordpress",
+      "group": "WORDPRESS",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "wordpress developer",
+      "group": "WORDPRESS",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "wordpress website",
+      "group": "WORDPRESS",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "wordpress development",
+      "group": "WORDPRESS",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "wordpress redesign",
+      "group": "WORDPRESS",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "wordpress customization",
+      "group": "WORDPRESS",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "wordpress migration",
+      "group": "WORDPRESS",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "wordpress speed optimization",
+      "group": "WORDPRESS",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "wordpress maintenance",
+      "group": "WORDPRESS",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "woocommerce",
+      "group": "WORDPRESS",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "elementor developer",
+      "group": "WORDPRESS",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "bricks builder",
+      "group": "WORDPRESS",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "webflow",
+      "group": "WEBFLOW / FRAMER",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "webflow developer",
+      "group": "WEBFLOW / FRAMER",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "webflow website",
+      "group": "WEBFLOW / FRAMER",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "webflow redesign",
+      "group": "WEBFLOW / FRAMER",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "figma to webflow",
+      "group": "WEBFLOW / FRAMER",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "framer",
+      "group": "WEBFLOW / FRAMER",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "framer developer",
+      "group": "WEBFLOW / FRAMER",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "framer website",
+      "group": "WEBFLOW / FRAMER",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "framer redesign",
+      "group": "WEBFLOW / FRAMER",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "figma to framer",
+      "group": "WEBFLOW / FRAMER",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "AI web development",
+      "group": "AI / VIBE CODING",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "AI web developer",
+      "group": "AI / VIBE CODING",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "vibe coding",
+      "group": "AI / VIBE CODING",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "claude code developer",
+      "group": "AI / VIBE CODING",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "cursor AI developer",
+      "group": "AI / VIBE CODING",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "lovable developer",
+      "group": "AI / VIBE CODING",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "lovable app",
+      "group": "AI / VIBE CODING",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "bolt developer",
+      "group": "AI / VIBE CODING",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "bolt.new",
+      "group": "AI / VIBE CODING",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "v0 developer",
+      "group": "AI / VIBE CODING",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "v0 vercel",
+      "group": "AI / VIBE CODING",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "replit developer",
+      "group": "AI / VIBE CODING",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "supabase developer",
+      "group": "AI / VIBE CODING",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "AI agent integration website",
+      "group": "AI / VIBE CODING",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "gohighlevel",
+      "group": "GOHIGHLEVEL",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "go high level",
+      "group": "GOHIGHLEVEL",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "GHL",
+      "group": "GOHIGHLEVEL",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "gohighlevel developer",
+      "group": "GOHIGHLEVEL",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "gohighlevel website",
+      "group": "GOHIGHLEVEL",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "gohighlevel funnel",
+      "group": "GOHIGHLEVEL",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "gohighlevel automation",
+      "group": "GOHIGHLEVEL",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "gohighlevel CRM",
+      "group": "GOHIGHLEVEL",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "squarespace website",
+      "group": "ADJACENT PLATFORMS",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "wix website",
+      "group": "ADJACENT PLATFORMS",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "wix studio",
+      "group": "ADJACENT PLATFORMS",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "bubble developer",
+      "group": "ADJACENT PLATFORMS",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "nextjs developer",
+      "group": "MODERN STACK",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "next.js developer",
+      "group": "MODERN STACK",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "nextjs website",
+      "group": "MODERN STACK",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "react developer",
+      "group": "MODERN STACK",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "figma to nextjs",
+      "group": "MODERN STACK",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "tailwind developer",
+      "group": "MODERN STACK",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "astro developer",
+      "group": "MODERN STACK",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "sanity CMS",
+      "group": "MODERN STACK",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "ecommerce website",
+      "group": "ECOMMERCE",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "ecommerce developer",
+      "group": "ECOMMERCE",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "shopify developer",
+      "group": "ECOMMERCE",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "shopify website",
+      "group": "ECOMMERCE",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "woocommerce developer",
+      "group": "ECOMMERCE",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "shopware",
+      "group": "ECOMMERCE",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "shopware developer",
+      "group": "ECOMMERCE",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "shopware 6",
+      "group": "ECOMMERCE",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "headless ecommerce",
+      "group": "ECOMMERCE",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "website maintenance",
+      "group": "MAINTENANCE / RETAINERS",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "website maintenance monthly",
+      "group": "MAINTENANCE / RETAINERS",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "website support ongoing",
+      "group": "MAINTENANCE / RETAINERS",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "website management ongoing",
+      "group": "MAINTENANCE / RETAINERS",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "wordpress support retainer",
+      "group": "MAINTENANCE / RETAINERS",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "webflow maintenance",
+      "group": "MAINTENANCE / RETAINERS",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "shopify maintenance",
+      "group": "MAINTENANCE / RETAINERS",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "ongoing web developer",
+      "group": "MAINTENANCE / RETAINERS",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "web development retainer",
+      "group": "MAINTENANCE / RETAINERS",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "conversion rate optimization",
+      "group": "CONVERSION / PERFORMANCE",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "landing page optimization",
+      "group": "CONVERSION / PERFORMANCE",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "website audit",
+      "group": "CONVERSION / PERFORMANCE",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "core web vitals",
+      "group": "CONVERSION / PERFORMANCE",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "page speed optimization",
+      "group": "CONVERSION / PERFORMANCE",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "website speed optimization",
+      "group": "CONVERSION / PERFORMANCE",
+      "error": "not_searched"
+    },
+    {
+      "keyword": "technical SEO website",
+      "group": "CONVERSION / PERFORMANCE",
+      "error": "not_searched"
+    }
+  ]
+}
