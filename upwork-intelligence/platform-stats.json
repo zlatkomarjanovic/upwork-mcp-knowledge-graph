@@ -1,0 +1,123 @@
+{
+  "WordPress": {
+    "totalJobs": 4,
+    "jobsLast24h": 4,
+    "avgBudgetFixed": 100,
+    "avgRateHourly": null,
+    "medianProposals": 35,
+    "pctVerified": 0.75,
+    "pctHighBudget": 0,
+    "sampleConfidence": "Very Low",
+    "opportunityScore": 26
+  },
+  "Webflow": {
+    "totalJobs": 1,
+    "jobsLast24h": 1,
+    "avgBudgetFixed": 12000,
+    "avgRateHourly": null,
+    "medianProposals": null,
+    "pctVerified": 1,
+    "pctHighBudget": 1,
+    "sampleConfidence": "Very Low",
+    "opportunityScore": 68
+  },
+  "Framer": {
+    "totalJobs": 1,
+    "jobsLast24h": 1,
+    "avgBudgetFixed": 12000,
+    "avgRateHourly": null,
+    "medianProposals": null,
+    "pctVerified": 1,
+    "pctHighBudget": 1,
+    "sampleConfidence": "Very Low",
+    "opportunityScore": 68
+  },
+  "GoHighLevel": {
+    "totalJobs": 1,
+    "jobsLast24h": 1,
+    "avgBudgetFixed": null,
+    "avgRateHourly": 50,
+    "medianProposals": 2,
+    "pctVerified": 1,
+    "pctHighBudget": 1,
+    "sampleConfidence": "Very Low",
+    "opportunityScore": 67
+  },
+  "Shopify": {
+    "totalJobs": 3,
+    "jobsLast24h": 3,
+    "avgBudgetFixed": 10,
+    "avgRateHourly": 32.5,
+    "medianProposals": 35,
+    "pctVerified": 1,
+    "pctHighBudget": 0,
+    "sampleConfidence": "Very Low",
+    "opportunityScore": 35
+  },
+  "WooCommerce": {
+    "totalJobs": 4,
+    "jobsLast24h": 4,
+    "avgBudgetFixed": 100,
+    "avgRateHourly": null,
+    "medianProposals": 35,
+    "pctVerified": 0.75,
+    "pctHighBudget": 0,
+    "sampleConfidence": "Very Low",
+    "opportunityScore": 26
+  },
+  "Shopware": {
+    "totalJobs": 1,
+    "jobsLast24h": 1,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": 35,
+    "pctVerified": 1,
+    "pctHighBudget": 0,
+    "sampleConfidence": "Very Low",
+    "opportunityScore": 20
+  },
+  "Lovable": {
+    "totalJobs": 2,
+    "jobsLast24h": 2,
+    "avgBudgetFixed": null,
+    "avgRateHourly": 30,
+    "medianProposals": 9.5,
+    "pctVerified": 0,
+    "pctHighBudget": 0,
+    "sampleConfidence": "Very Low",
+    "opportunityScore": 35
+  },
+  "Bolt": {
+    "totalJobs": 2,
+    "jobsLast24h": 2,
+    "avgBudgetFixed": null,
+    "avgRateHourly": 30,
+    "medianProposals": 9.5,
+    "pctVerified": 0,
+    "pctHighBudget": 0,
+    "sampleConfidence": "Very Low",
+    "opportunityScore": 35
+  },
+  "v0": {
+    "totalJobs": 2,
+    "jobsLast24h": 2,
+    "avgBudgetFixed": null,
+    "avgRateHourly": 30,
+    "medianProposals": 9.5,
+    "pctVerified": 0,
+    "pctHighBudget": 0,
+    "sampleConfidence": "Very Low",
+    "opportunityScore": 35
+  },
+  "Next.js": {
+    "totalJobs": 0,
+    "jobsLast24h": 0,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": null,
+    "pctVerified": 0,
+    "pctHighBudget": 0,
+    "sampleConfidence": "Very Low",
+    "opportunityScore": 15
+  }
+}
