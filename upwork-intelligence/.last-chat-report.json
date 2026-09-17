@@ -1,0 +1,464 @@
+{
+  "runNumber": 4,
+  "keywordsAttempted": 93,
+  "keywordsCompleted": 93,
+  "newJobs": 7,
+  "totalJobs": 17,
+  "top10": [
+    {
+      "keyword": "custom website",
+      "totalJobs": 1,
+      "jobsLast24h": 0,
+      "avgBudgetFixed": 1000,
+      "avgRateHourly": null,
+      "medianProposals": 4,
+      "pctVerified": 1,
+      "avgClientSpend": null,
+      "pctHighBudget": 1,
+      "sampleConfidence": "Very Low",
+      "opportunityScore": 47
+    },
+    {
+      "keyword": "full stack developer",
+      "totalJobs": 2,
+      "jobsLast24h": 0,
+      "avgBudgetFixed": null,
+      "avgRateHourly": 54.5,
+      "medianProposals": 5,
+      "pctVerified": 0.5,
+      "avgClientSpend": 87235.45,
+      "pctHighBudget": 0.5,
+      "sampleConfidence": "Very Low",
+      "opportunityScore": 40
+    },
+    {
+      "keyword": "gohighlevel",
+      "totalJobs": 1,
+      "jobsLast24h": 0,
+      "avgBudgetFixed": 1000,
+      "avgRateHourly": null,
+      "medianProposals": 66,
+      "pctVerified": 1,
+      "avgClientSpend": 2892.53,
+      "pctHighBudget": 1,
+      "sampleConfidence": "Very Low",
+      "opportunityScore": 34
+    },
+    {
+      "keyword": "GHL",
+      "totalJobs": 1,
+      "jobsLast24h": 0,
+      "avgBudgetFixed": 1000,
+      "avgRateHourly": null,
+      "medianProposals": 66,
+      "pctVerified": 1,
+      "avgClientSpend": 2892.53,
+      "pctHighBudget": 1,
+      "sampleConfidence": "Very Low",
+      "opportunityScore": 34
+    },
+    {
+      "keyword": "gohighlevel developer",
+      "totalJobs": 1,
+      "jobsLast24h": 0,
+      "avgBudgetFixed": 1000,
+      "avgRateHourly": null,
+      "medianProposals": 66,
+      "pctVerified": 1,
+      "avgClientSpend": 2892.53,
+      "pctHighBudget": 1,
+      "sampleConfidence": "Very Low",
+      "opportunityScore": 34
+    },
+    {
+      "keyword": "wordpress",
+      "totalJobs": 5,
+      "jobsLast24h": 2,
+      "avgBudgetFixed": 146.66666666666666,
+      "avgRateHourly": 22.5,
+      "medianProposals": 10,
+      "pctVerified": 0.8,
+      "avgClientSpend": 19754.296666666665,
+      "pctHighBudget": 0,
+      "sampleConfidence": "Low",
+      "opportunityScore": 33
+    },
+    {
+      "keyword": "wordpress developer",
+      "totalJobs": 4,
+      "jobsLast24h": 2,
+      "avgBudgetFixed": 175,
+      "avgRateHourly": 22.5,
+      "medianProposals": 14,
+      "pctVerified": 0.75,
+      "avgClientSpend": 27587.915,
+      "pctHighBudget": 0,
+      "sampleConfidence": "Very Low",
+      "opportunityScore": 32
+    },
+    {
+      "keyword": "AI web developer",
+      "totalJobs": 1,
+      "jobsLast24h": 0,
+      "avgBudgetFixed": null,
+      "avgRateHourly": 14,
+      "medianProposals": 5,
+      "pctVerified": 1,
+      "avgClientSpend": 87235.45,
+      "pctHighBudget": 0,
+      "sampleConfidence": "Very Low",
+      "opportunityScore": 31
+    },
+    {
+      "keyword": "cursor AI developer",
+      "totalJobs": 1,
+      "jobsLast24h": 0,
+      "avgBudgetFixed": null,
+      "avgRateHourly": 14,
+      "medianProposals": 5,
+      "pctVerified": 1,
+      "avgClientSpend": 87235.45,
+      "pctHighBudget": 0,
+      "sampleConfidence": "Very Low",
+      "opportunityScore": 31
+    },
+    {
+      "keyword": "wordpress website",
+      "totalJobs": 3,
+      "jobsLast24h": 1,
+      "avgBudgetFixed": 300,
+      "avgRateHourly": 22.5,
+      "medianProposals": 14,
+      "pctVerified": 0.6666666666666666,
+      "avgClientSpend": 20780,
+      "pctHighBudget": 0,
+      "sampleConfidence": "Very Low",
+      "opportunityScore": 30
+    }
+  ],
+  "topGroups": [
+    [
+      "CORE WEB DEVELOPMENT",
+      {
+        "totalJobs": 12,
+        "jobsLast24h": 9,
+        "avgOpportunityScore": 27.5,
+        "keywordCount": 6
+      }
+    ],
+    [
+      "WORDPRESS",
+      {
+        "totalJobs": 17,
+        "jobsLast24h": 6,
+        "avgOpportunityScore": 19.083333333333332,
+        "keywordCount": 12
+      }
+    ],
+    [
+      "GOHIGHLEVEL",
+      {
+        "totalJobs": 3,
+        "jobsLast24h": 0,
+        "avgOpportunityScore": 16.5,
+        "keywordCount": 8
+      }
+    ],
+    [
+      "ECOMMERCE",
+      {
+        "totalJobs": 3,
+        "jobsLast24h": 0,
+        "avgOpportunityScore": 11,
+        "keywordCount": 9
+      }
+    ],
+    [
+      "WEB DESIGN",
+      {
+        "totalJobs": 3,
+        "jobsLast24h": 3,
+        "avgOpportunityScore": 10.333333333333334,
+        "keywordCount": 6
+      }
+    ]
+  ],
+  "platformStats": {
+    "WordPress": {
+      "jobs": 5,
+      "avgBudgetFixed": 146.66666666666666,
+      "avgRateHourly": 22.5,
+      "medianProposals": 10,
+      "sampleConfidence": "Low",
+      "opportunityScore": 33
+    },
+    "Webflow": {
+      "jobs": 1,
+      "avgBudgetFixed": null,
+      "avgRateHourly": null,
+      "medianProposals": 80,
+      "sampleConfidence": "Very Low",
+      "opportunityScore": 14
+    },
+    "Framer": {
+      "jobs": 0,
+      "avgBudgetFixed": null,
+      "avgRateHourly": null,
+      "medianProposals": null,
+      "sampleConfidence": "Very Low",
+      "opportunityScore": 6
+    },
+    "GoHighLevel": {
+      "jobs": 1,
+      "avgBudgetFixed": 1000,
+      "avgRateHourly": null,
+      "medianProposals": 66,
+      "sampleConfidence": "Very Low",
+      "opportunityScore": 34
+    },
+    "Shopify": {
+      "jobs": 1,
+      "avgBudgetFixed": null,
+      "avgRateHourly": null,
+      "medianProposals": 6,
+      "sampleConfidence": "Very Low",
+      "opportunityScore": 29
+    },
+    "WooCommerce": {
+      "jobs": 2,
+      "avgBudgetFixed": 145,
+      "avgRateHourly": null,
+      "medianProposals": 13,
+      "sampleConfidence": "Very Low",
+      "opportunityScore": 28
+    },
+    "Shopware": {
+      "jobs": 0,
+      "avgBudgetFixed": null,
+      "avgRateHourly": null,
+      "medianProposals": null,
+      "sampleConfidence": "Very Low",
+      "opportunityScore": 6
+    },
+    "Lovable": {
+      "jobs": 0,
+      "avgBudgetFixed": null,
+      "avgRateHourly": null,
+      "medianProposals": null,
+      "sampleConfidence": "Very Low",
+      "opportunityScore": 6
+    },
+    "Bolt": {
+      "jobs": 0,
+      "avgBudgetFixed": null,
+      "avgRateHourly": null,
+      "medianProposals": null,
+      "sampleConfidence": "Very Low",
+      "opportunityScore": 6
+    },
+    "v0": {
+      "jobs": 0,
+      "avgBudgetFixed": null,
+      "avgRateHourly": null,
+      "medianProposals": null,
+      "sampleConfidence": "Very Low",
+      "opportunityScore": 6
+    },
+    "Next.js": {
+      "jobs": 0,
+      "avgBudgetFixed": null,
+      "avgRateHourly": null,
+      "medianProposals": null,
+      "sampleConfidence": "Very Low",
+      "opportunityScore": 6
+    }
+  },
+  "newJobsList": [
+    {
+      "url": "https://www.upwork.com/jobs/~022100532381209916831",
+      "title": "Website Development & Logo Design Real Estate Agency",
+      "matchedKeyword": [
+        "web development",
+        "website development",
+        "web developer"
+      ],
+      "keywordGroup": "CORE WEB DEVELOPMENT",
+      "postedAt": "2026-09-17T13:30:19.986Z",
+      "type": "hourly",
+      "budget": null,
+      "hourlyRate": null,
+      "duration": null,
+      "proposals": null,
+      "clientCountry": "Australia",
+      "paymentVerified": null,
+      "clientSpend": null,
+      "clientHireRate": null,
+      "clientRating": null,
+      "experienceLevel": null,
+      "skills": [
+        "Logo Design",
+        "Real Estate"
+      ]
+    },
+    {
+      "url": "https://www.upwork.com/jobs/~022100572472963944573",
+      "title": "Wix Site Development for Cat Sitting Service",
+      "matchedKeyword": [
+        "web development",
+        "website development",
+        "web developer",
+        "wix website"
+      ],
+      "keywordGroup": "CORE WEB DEVELOPMENT",
+      "postedAt": "2026-09-17T13:09:12.702Z",
+      "type": "hourly",
+      "budget": null,
+      "hourlyRate": "10.00–30.00/hr",
+      "duration": null,
+      "proposals": null,
+      "clientCountry": "United States",
+      "paymentVerified": true,
+      "clientSpend": null,
+      "clientHireRate": null,
+      "clientRating": null,
+      "experienceLevel": null,
+      "skills": [
+        "Wix",
+        "Web Design",
+        "Web Development"
+      ]
+    },
+    {
+      "url": "https://www.upwork.com/jobs/~022100570440730522529",
+      "title": "B2B SaaS Website Redesign & Development",
+      "matchedKeyword": [
+        "web development",
+        "website development",
+        "web developer",
+        "website redesign"
+      ],
+      "keywordGroup": "CORE WEB DEVELOPMENT",
+      "postedAt": "2026-09-17T13:01:34.801Z",
+      "type": "hourly",
+      "budget": null,
+      "hourlyRate": "30.00–60.00/hr",
+      "duration": null,
+      "proposals": null,
+      "clientCountry": "Ukraine",
+      "paymentVerified": null,
+      "clientSpend": null,
+      "clientHireRate": null,
+      "clientRating": null,
+      "experienceLevel": null,
+      "skills": [
+        "WordPress",
+        "Website Redesign",
+        "Figma"
+      ]
+    },
+    {
+      "url": "https://www.upwork.com/jobs/~022100573379376205960",
+      "title": "Wix Website Redesign for Wellness Brand",
+      "matchedKeyword": [
+        "website redesign",
+        "wix website"
+      ],
+      "keywordGroup": "WEB DESIGN",
+      "postedAt": "2026-09-17T13:12:07.124Z",
+      "type": "fixed",
+      "budget": "10.00",
+      "hourlyRate": null,
+      "duration": null,
+      "proposals": null,
+      "clientCountry": "Nigeria",
+      "paymentVerified": true,
+      "clientSpend": null,
+      "clientHireRate": null,
+      "clientRating": 5,
+      "experienceLevel": null,
+      "skills": [
+        "Wix",
+        "Website Redesign"
+      ]
+    },
+    {
+      "url": "https://www.upwork.com/jobs/~022100578886713884774",
+      "title": "Web/UI Designer for Landing Page",
+      "matchedKeyword": [
+        "landing page design"
+      ],
+      "keywordGroup": "WEB DESIGN",
+      "postedAt": "2026-09-17T13:41:26.613Z",
+      "type": "fixed",
+      "budget": "500.00",
+      "hourlyRate": null,
+      "duration": null,
+      "proposals": null,
+      "clientCountry": "United States",
+      "paymentVerified": null,
+      "clientSpend": null,
+      "clientHireRate": null,
+      "clientRating": null,
+      "experienceLevel": null,
+      "skills": [
+        "Web Design",
+        "User Interface Design"
+      ]
+    },
+    {
+      "url": "https://www.upwork.com/jobs/~022100582715031306342",
+      "title": "WordPress + Divi Speed Optimization – Second Round Performance Improvements",
+      "matchedKeyword": [
+        "wordpress",
+        "wordpress developer",
+        "wordpress speed optimization"
+      ],
+      "keywordGroup": "WORDPRESS",
+      "postedAt": "2026-09-17T13:50:08.507Z",
+      "type": "fixed",
+      "budget": "50.00",
+      "hourlyRate": null,
+      "duration": null,
+      "proposals": null,
+      "clientCountry": "United States",
+      "paymentVerified": true,
+      "clientSpend": "$34,395.83",
+      "clientHireRate": null,
+      "clientRating": 4.56,
+      "experienceLevel": null,
+      "skills": [
+        "WordPress Optimization",
+        "Page Speed Optimization"
+      ]
+    },
+    {
+      "url": "https://www.upwork.com/jobs/~022100573840477016200",
+      "title": "WordPress Brochure Website for a Steel Manufacturing Brand (5 Pages)",
+      "matchedKeyword": [
+        "wordpress",
+        "wordpress developer",
+        "wordpress website"
+      ],
+      "keywordGroup": "WORDPRESS",
+      "postedAt": "2026-09-17T13:14:05.320Z",
+      "type": "fixed",
+      "budget": "300.00",
+      "hourlyRate": null,
+      "duration": null,
+      "proposals": null,
+      "clientCountry": "India",
+      "paymentVerified": null,
+      "clientSpend": null,
+      "clientHireRate": null,
+      "clientRating": null,
+      "experienceLevel": null,
+      "skills": [
+        "WordPress Website Design",
+        "Elementor"
+      ]
+    }
+  ],
+  "errors": [],
+  "primary": "custom website",
+  "secondary": "full stack developer"
+}
