@@ -1,0 +1,123 @@
+{
+  "CORE WEB DEVELOPMENT": {
+    "totalJobs": 14,
+    "jobsLast24h": 14,
+    "avgBudgetFixed": 2056.6666666666665,
+    "avgRateHourly": 36.25,
+    "medianProposals": 26,
+    "pctVerified": 0.7857142857142857,
+    "pctHighBudget": 0.14285714285714285,
+    "sampleConfidence": "Low",
+    "opportunityScore": 72
+  },
+  "WEB DESIGN": {
+    "totalJobs": 7,
+    "jobsLast24h": 7,
+    "avgBudgetFixed": 1025,
+    "avgRateHourly": 28.75,
+    "medianProposals": 2,
+    "pctVerified": 0.7142857142857143,
+    "pctHighBudget": 0.14285714285714285,
+    "sampleConfidence": "Low",
+    "opportunityScore": 73
+  },
+  "WORDPRESS": {
+    "totalJobs": 3,
+    "jobsLast24h": 3,
+    "avgBudgetFixed": 100,
+    "avgRateHourly": null,
+    "medianProposals": 35,
+    "pctVerified": 0.6666666666666666,
+    "pctHighBudget": 0,
+    "sampleConfidence": "Very Low",
+    "opportunityScore": 23
+  },
+  "WEBFLOW / FRAMER": {
+    "totalJobs": 1,
+    "jobsLast24h": 1,
+    "avgBudgetFixed": 12000,
+    "avgRateHourly": null,
+    "medianProposals": null,
+    "pctVerified": 1,
+    "pctHighBudget": 1,
+    "sampleConfidence": "Very Low",
+    "opportunityScore": 68
+  },
+  "AI / VIBE CODING": {
+    "totalJobs": 2,
+    "jobsLast24h": 2,
+    "avgBudgetFixed": null,
+    "avgRateHourly": 30,
+    "medianProposals": 9.5,
+    "pctVerified": 0,
+    "pctHighBudget": 0,
+    "sampleConfidence": "Very Low",
+    "opportunityScore": 35
+  },
+  "GOHIGHLEVEL": {
+    "totalJobs": 1,
+    "jobsLast24h": 1,
+    "avgBudgetFixed": null,
+    "avgRateHourly": 50,
+    "medianProposals": 2,
+    "pctVerified": 1,
+    "pctHighBudget": 1,
+    "sampleConfidence": "Very Low",
+    "opportunityScore": 67
+  },
+  "ADJACENT PLATFORMS": {
+    "totalJobs": 0,
+    "jobsLast24h": 0,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": null,
+    "pctVerified": 0,
+    "pctHighBudget": 0,
+    "sampleConfidence": "Very Low",
+    "opportunityScore": 15
+  },
+  "MODERN STACK": {
+    "totalJobs": 0,
+    "jobsLast24h": 0,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": null,
+    "pctVerified": 0,
+    "pctHighBudget": 0,
+    "sampleConfidence": "Very Low",
+    "opportunityScore": 15
+  },
+  "ECOMMERCE": {
+    "totalJobs": 1,
+    "jobsLast24h": 1,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": 35,
+    "pctVerified": 1,
+    "pctHighBudget": 0,
+    "sampleConfidence": "Very Low",
+    "opportunityScore": 20
+  },
+  "MAINTENANCE / RETAINERS": {
+    "totalJobs": 0,
+    "jobsLast24h": 0,
+    "avgBudgetFixed": null,
+    "avgRateHourly": null,
+    "medianProposals": null,
+    "pctVerified": 0,
+    "pctHighBudget": 0,
+    "sampleConfidence": "Very Low",
+    "opportunityScore": 15
+  },
+  "CONVERSION / PERFORMANCE": {
+    "totalJobs": 1,
+    "jobsLast24h": 1,
+    "avgBudgetFixed": 50,
+    "avgRateHourly": null,
+    "medianProposals": 7,
+    "pctVerified": 1,
+    "pctHighBudget": 0,
+    "sampleConfidence": "Very Low",
+    "opportunityScore": 35
+  }
+}
