@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-17T08:00:49.094135Z
 Run: 2
-Total jobs tracked: 13
+Total jobs tracked: 12
 Keywords attempted: 93
 Keywords completed: 93
 
@@ -56,4 +56,5 @@ Maintenance: Long-term Elementor/Woo retainers still posting.
 
 ## Important Changes
 
+Run 2 added ongoing CRO + HighLevel funnel role (verified US client, ~$18k spend). GoHighLevel keyword cluster now strongest non-core group in the 1h window.
 
