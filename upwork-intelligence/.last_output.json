@@ -1,0 +1,291 @@
+{
+  "runNumber": 10,
+  "keywordsAttempted": 93,
+  "keywordsCompleted": 93,
+  "newJobs": [],
+  "allJobsCount": 44,
+  "top10": [
+    {
+      "keyword": "wordpress developer",
+      "group": "WORDPRESS",
+      "totalJobs": 14,
+      "jobsLast24h": 10,
+      "avgBudgetFixed": 800.0,
+      "avgRateHourly": 26.25,
+      "medianProposals": 21,
+      "pctVerified": 85.7,
+      "avgClientSpend": 33092.69,
+      "pctHighBudget": 14.3,
+      "opportunityScore": 62,
+      "sampleConfidence": "Low"
+    },
+    {
+      "keyword": "wordpress speed optimization",
+      "group": "WORDPRESS",
+      "totalJobs": 14,
+      "jobsLast24h": 10,
+      "avgBudgetFixed": 612.5,
+      "avgRateHourly": 27.5,
+      "medianProposals": 21,
+      "pctVerified": 78.6,
+      "avgClientSpend": 33092.69,
+      "pctHighBudget": 14.3,
+      "opportunityScore": 61,
+      "sampleConfidence": "Low"
+    },
+    {
+      "keyword": "gohighlevel website",
+      "group": "GOHIGHLEVEL",
+      "totalJobs": 10,
+      "jobsLast24h": 9,
+      "avgBudgetFixed": 725.0,
+      "avgRateHourly": 26.8,
+      "medianProposals": 3,
+      "pctVerified": 60.0,
+      "avgClientSpend": 82594.92,
+      "pctHighBudget": 20.0,
+      "opportunityScore": 66,
+      "sampleConfidence": "Low"
+    },
+    {
+      "keyword": "website speed optimization",
+      "group": "CONVERSION / PERFORMANCE",
+      "totalJobs": 9,
+      "jobsLast24h": 9,
+      "avgBudgetFixed": 1150.0,
+      "avgRateHourly": 21.0,
+      "medianProposals": null,
+      "pctVerified": 55.6,
+      "avgClientSpend": 46533.45,
+      "pctHighBudget": 22.2,
+      "opportunityScore": 65,
+      "sampleConfidence": "Low"
+    },
+    {
+      "keyword": "shopify website",
+      "group": "ECOMMERCE",
+      "totalJobs": 11,
+      "jobsLast24h": 9,
+      "avgBudgetFixed": 3110.0,
+      "avgRateHourly": 21.0,
+      "medianProposals": 16,
+      "pctVerified": 63.6,
+      "avgClientSpend": 23385.47,
+      "pctHighBudget": 36.4,
+      "opportunityScore": 64,
+      "sampleConfidence": "Low"
+    },
+    {
+      "keyword": "AI agent integration website",
+      "group": "AI / VIBE CODING",
+      "totalJobs": 9,
+      "jobsLast24h": 9,
+      "avgBudgetFixed": 485.0,
+      "avgRateHourly": 21.0,
+      "medianProposals": null,
+      "pctVerified": 55.6,
+      "avgClientSpend": 46533.45,
+      "pctHighBudget": 11.1,
+      "opportunityScore": 63,
+      "sampleConfidence": "Low"
+    },
+    {
+      "keyword": "website development",
+      "group": "CORE WEB DEVELOPMENT",
+      "totalJobs": 12,
+      "jobsLast24h": 9,
+      "avgBudgetFixed": 369.0,
+      "avgRateHourly": 18.1,
+      "medianProposals": 3,
+      "pctVerified": 66.7,
+      "avgClientSpend": 16586.3,
+      "pctHighBudget": 8.3,
+      "opportunityScore": 61,
+      "sampleConfidence": "Low"
+    },
+    {
+      "keyword": "wordpress customization",
+      "group": "WORDPRESS",
+      "totalJobs": 13,
+      "jobsLast24h": 9,
+      "avgBudgetFixed": 393.75,
+      "avgRateHourly": 26.25,
+      "medianProposals": 21,
+      "pctVerified": 84.6,
+      "avgClientSpend": 33092.69,
+      "pctHighBudget": 7.7,
+      "opportunityScore": 60,
+      "sampleConfidence": "Low"
+    },
+    {
+      "keyword": "wordpress migration",
+      "group": "WORDPRESS",
+      "totalJobs": 12,
+      "jobsLast24h": 9,
+      "avgBudgetFixed": 447.14,
+      "avgRateHourly": 26.25,
+      "medianProposals": 22,
+      "pctVerified": 83.3,
+      "avgClientSpend": 41305.86,
+      "pctHighBudget": 8.3,
+      "opportunityScore": 60,
+      "sampleConfidence": "Low"
+    },
+    {
+      "keyword": "wordpress maintenance",
+      "group": "WORDPRESS",
+      "totalJobs": 13,
+      "jobsLast24h": 9,
+      "avgBudgetFixed": 393.75,
+      "avgRateHourly": 26.25,
+      "medianProposals": 21,
+      "pctVerified": 84.6,
+      "avgClientSpend": 33092.69,
+      "pctHighBudget": 7.7,
+      "opportunityScore": 60,
+      "sampleConfidence": "Low"
+    }
+  ],
+  "ranked_groups": [
+    {
+      "group": "CORE WEB DEVELOPMENT",
+      "totalJobs": 21,
+      "jobsLast24h": 13,
+      "opportunityScore": 59,
+      "sampleConfidence": "Medium"
+    },
+    {
+      "group": "WORDPRESS",
+      "totalJobs": 5,
+      "jobsLast24h": 2,
+      "opportunityScore": 50,
+      "sampleConfidence": "Low"
+    },
+    {
+      "group": "GOHIGHLEVEL",
+      "totalJobs": 2,
+      "jobsLast24h": 1,
+      "opportunityScore": 75,
+      "sampleConfidence": "Very Low"
+    },
+    {
+      "group": "WEB DESIGN",
+      "totalJobs": 5,
+      "jobsLast24h": 1,
+      "opportunityScore": 62,
+      "sampleConfidence": "Low"
+    },
+    {
+      "group": "ADJACENT PLATFORMS",
+      "totalJobs": 1,
+      "jobsLast24h": 0,
+      "opportunityScore": 60,
+      "sampleConfidence": "Very Low"
+    }
+  ],
+  "platform_stats": {
+    "WordPress": {
+      "platform": "WordPress",
+      "jobs": 23,
+      "avgBudgetFixed": 795.45,
+      "avgRateHourly": 22.75,
+      "medianProposals": 22,
+      "opportunityScore": 58,
+      "sampleConfidence": "Medium"
+    },
+    "Webflow": {
+      "platform": "Webflow",
+      "jobs": 13,
+      "avgBudgetFixed": 1325.0,
+      "avgRateHourly": 22.8,
+      "medianProposals": 17,
+      "opportunityScore": 63,
+      "sampleConfidence": "Low"
+    },
+    "Framer": {
+      "platform": "Framer",
+      "jobs": 17,
+      "avgBudgetFixed": 1028.75,
+      "avgRateHourly": 22.8,
+      "medianProposals": 12,
+      "opportunityScore": 64,
+      "sampleConfidence": "Medium"
+    },
+    "GoHighLevel": {
+      "platform": "GoHighLevel",
+      "jobs": 15,
+      "avgBudgetFixed": 900.83,
+      "avgRateHourly": 27.33,
+      "medianProposals": 3,
+      "opportunityScore": 66,
+      "sampleConfidence": "Medium"
+    },
+    "Shopify": {
+      "platform": "Shopify",
+      "jobs": 18,
+      "avgBudgetFixed": 2419.38,
+      "avgRateHourly": 29.79,
+      "medianProposals": 5,
+      "opportunityScore": 65,
+      "sampleConfidence": "Medium"
+    },
+    "WooCommerce": {
+      "platform": "WooCommerce",
+      "jobs": 6,
+      "avgBudgetFixed": 1683.33,
+      "avgRateHourly": 30.0,
+      "medianProposals": 17,
+      "opportunityScore": 63,
+      "sampleConfidence": "Low"
+    },
+    "Shopware": {
+      "platform": "Shopware",
+      "jobs": 11,
+      "avgBudgetFixed": 1263.33,
+      "avgRateHourly": 23.75,
+      "medianProposals": null,
+      "opportunityScore": 68,
+      "sampleConfidence": "Low"
+    },
+    "Lovable": {
+      "platform": "Lovable",
+      "jobs": 12,
+      "avgBudgetFixed": 1263.33,
+      "avgRateHourly": 23.75,
+      "medianProposals": 39,
+      "opportunityScore": 66,
+      "sampleConfidence": "Low"
+    },
+    "Bolt": {
+      "platform": "Bolt",
+      "jobs": 11,
+      "avgBudgetFixed": 1263.33,
+      "avgRateHourly": 23.75,
+      "medianProposals": null,
+      "opportunityScore": 68,
+      "sampleConfidence": "Low"
+    },
+    "v0": {
+      "platform": "v0",
+      "jobs": 11,
+      "avgBudgetFixed": 1263.33,
+      "avgRateHourly": 23.75,
+      "medianProposals": null,
+      "opportunityScore": 68,
+      "sampleConfidence": "Low"
+    },
+    "Next.js": {
+      "platform": "Next.js",
+      "jobs": 15,
+      "avgBudgetFixed": 1118.57,
+      "avgRateHourly": 22.8,
+      "medianProposals": null,
+      "opportunityScore": 67,
+      "sampleConfidence": "Medium"
+    }
+  },
+  "errors": [],
+  "primary": "wordpress developer",
+  "secondary": "wordpress speed optimization",
+  "best_plat": "WordPress"
+}
