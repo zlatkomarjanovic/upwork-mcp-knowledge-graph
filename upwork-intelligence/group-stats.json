@@ -1,0 +1,47 @@
+{
+  "WEB DESIGN": {
+    "jobCount": 1,
+    "opportunityScore": 76,
+    "jobsLast24h": 1
+  },
+  "ECOMMERCE": {
+    "jobCount": 5,
+    "opportunityScore": 75,
+    "jobsLast24h": 5
+  },
+  "WORDPRESS": {
+    "jobCount": 6,
+    "opportunityScore": 69,
+    "jobsLast24h": 6
+  },
+  "GOHIGHLEVEL": {
+    "jobCount": 4,
+    "opportunityScore": 66,
+    "jobsLast24h": 4
+  },
+  "CONVERSION / PERFORMANCE": {
+    "jobCount": 2,
+    "opportunityScore": 65,
+    "jobsLast24h": 2
+  },
+  "CORE WEB DEVELOPMENT": {
+    "jobCount": 3,
+    "opportunityScore": 65,
+    "jobsLast24h": 3
+  },
+  "MAINTENANCE / RETAINERS": {
+    "jobCount": 1,
+    "opportunityScore": 65,
+    "jobsLast24h": 1
+  },
+  "AI / VIBE CODING": {
+    "jobCount": 5,
+    "opportunityScore": 63,
+    "jobsLast24h": 5
+  },
+  "MODERN STACK": {
+    "jobCount": 1,
+    "opportunityScore": 52,
+    "jobsLast24h": 1
+  }
+}
