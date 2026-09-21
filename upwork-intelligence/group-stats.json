@@ -1,79 +1,79 @@
 {
   "CORE WEB DEVELOPMENT": {
     "group": "CORE WEB DEVELOPMENT",
-    "totalJobs": 143,
-    "jobsLast24h": 28,
-    "avgOpportunityScore": 10.7,
+    "totalJobs": 203,
+    "jobsLast24h": 60,
+    "avgOpportunityScore": 14.2,
     "keywordCount": 6
   },
   "WEB DESIGN": {
     "group": "WEB DESIGN",
-    "totalJobs": 102,
-    "jobsLast24h": 19,
-    "avgOpportunityScore": 9.3,
+    "totalJobs": 162,
+    "jobsLast24h": 60,
+    "avgOpportunityScore": 15.7,
     "keywordCount": 6
   },
   "WORDPRESS": {
     "group": "WORDPRESS",
-    "totalJobs": 237,
-    "jobsLast24h": 130,
-    "avgOpportunityScore": 16.3,
+    "totalJobs": 341,
+    "jobsLast24h": 104,
+    "avgOpportunityScore": 13.4,
     "keywordCount": 12
   },
   "WEBFLOW / FRAMER": {
     "group": "WEBFLOW / FRAMER",
-    "totalJobs": 181,
-    "jobsLast24h": 148,
-    "avgOpportunityScore": 23.9,
+    "totalJobs": 262,
+    "jobsLast24h": 81,
+    "avgOpportunityScore": 12.1,
     "keywordCount": 10
   },
   "AI / VIBE CODING": {
     "group": "AI / VIBE CODING",
-    "totalJobs": 108,
-    "jobsLast24h": 50,
-    "avgOpportunityScore": 18.8,
+    "totalJobs": 241,
+    "jobsLast24h": 133,
+    "avgOpportunityScore": 20.6,
     "keywordCount": 14
   },
   "GOHIGHLEVEL": {
     "group": "GOHIGHLEVEL",
-    "totalJobs": 47,
-    "jobsLast24h": 17,
-    "avgOpportunityScore": 14.6,
+    "totalJobs": 111,
+    "jobsLast24h": 64,
+    "avgOpportunityScore": 18.1,
     "keywordCount": 8
   },
   "ADJACENT PLATFORMS": {
     "group": "ADJACENT PLATFORMS",
-    "totalJobs": 34,
-    "jobsLast24h": 26,
-    "avgOpportunityScore": 21,
+    "totalJobs": 35,
+    "jobsLast24h": 1,
+    "avgOpportunityScore": 7,
     "keywordCount": 4
   },
   "MODERN STACK": {
     "group": "MODERN STACK",
-    "totalJobs": 102,
-    "jobsLast24h": 67,
-    "avgOpportunityScore": 15.6,
+    "totalJobs": 168,
+    "jobsLast24h": 66,
+    "avgOpportunityScore": 15.4,
     "keywordCount": 8
   },
   "ECOMMERCE": {
     "group": "ECOMMERCE",
-    "totalJobs": 135,
-    "jobsLast24h": 88,
-    "avgOpportunityScore": 17.8,
+    "totalJobs": 186,
+    "jobsLast24h": 51,
+    "avgOpportunityScore": 11.4,
     "keywordCount": 9
   },
   "MAINTENANCE / RETAINERS": {
     "group": "MAINTENANCE / RETAINERS",
-    "totalJobs": 75,
-    "jobsLast24h": 33,
-    "avgOpportunityScore": 16.8,
+    "totalJobs": 136,
+    "jobsLast24h": 61,
+    "avgOpportunityScore": 16.2,
     "keywordCount": 9
   },
   "CONVERSION / PERFORMANCE": {
     "group": "CONVERSION / PERFORMANCE",
-    "totalJobs": 36,
-    "jobsLast24h": 10,
-    "avgOpportunityScore": 14.5,
+    "totalJobs": 87,
+    "jobsLast24h": 51,
+    "avgOpportunityScore": 21.6,
     "keywordCount": 7
   }
 }
